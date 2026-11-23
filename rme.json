@@ -1,0 +1,282 @@
+{
+  "id": "rme",
+  "name": "RME",
+  "strapline": "Explore beliefs. Think carefully. Listen respectfully.",
+  "intro": "Religious and Moral Education explores religious and non-religious worldviews, values and questions about human life. You are never asked to adopt a belief or disclose personal beliefs. Use evidence, acknowledge diversity within traditions and disagree respectfully with ideas. BGE enquiries below are suggestions. Senior qualifications are called Religious, Moral and Philosophical Studies (RMPS), with departmental choices within national areas.",
+  "bge": [
+    {
+      "title": "Belonging and belief",
+      "question": "What shapes how people see the world?",
+      "learn": [
+        "Religious and non-religious worldviews",
+        "Identity and community",
+        "Diversity within traditions"
+      ],
+      "task": "Create a fictional character with several influences on their worldview. Explain why no single label describes everything about them.",
+      "extend": "Compare two first-person accounts from the same tradition without assuming they represent everyone."
+    },
+    {
+      "title": "What makes an action right?",
+      "question": "Should we judge intentions or consequences?",
+      "learn": [
+        "Reasons and moral claims",
+        "Consequences and duties",
+        "Respectful disagreement"
+      ],
+      "task": "Consider a fictional promise broken to help someone in urgent need. Present a reason for keeping the promise and a reason for breaking it.",
+      "extend": "Explain which principle matters most in your judgement and test it against another situation."
+    },
+    {
+      "title": "Celebration, story and symbol",
+      "question": "Why can a symbol mean more than it shows?",
+      "learn": [
+        "Meaning and interpretation",
+        "Sources and lived experience",
+        "Respectful comparison"
+      ],
+      "task": "Choose a teacher-approved celebration. Explain the meaning of one practice using a reliable source from that community.",
+      "extend": "Find a different account and explain how practice varies."
+    },
+    {
+      "title": "A fairer community",
+      "question": "What do we owe to one another?",
+      "learn": [
+        "Human dignity",
+        "Rights and responsibilities",
+        "Practical moral decisions"
+      ],
+      "task": "Design an inclusive community event. Explain how two decisions support participation and respect.",
+      "extend": "Identify a conflict between two reasonable priorities and propose a justified compromise."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3/4",
+      "title": "Religious, Moral and Philosophical Studies",
+      "areas": [
+        "World Religion",
+        "Morality and Belief",
+        "Religious and Philosophical Questions",
+        "National 4 added value"
+      ],
+      "explain": "Study the selected religion and issues through nationally specified areas. The department confirms options; these are not personal faith tests.",
+      "assessment": "Internal units; National 4 also includes an added value assignment.",
+      "source": {
+        "title": "Qualifications Scotland: Religious, Moral and Philosophical Studies",
+        "url": "https://www.sqa.org.uk/sqa/45772.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "Religious, Moral and Philosophical Studies",
+      "areas": [
+        "World Religion",
+        "Morality and Belief",
+        "Religious and Philosophical Questions"
+      ],
+      "explain": "Explain beliefs, analyse responses and support conclusions. Specific religion and issue options are departmental choices within the specification.",
+      "assessment": "Question paper and assignment. Consult the current course page and assessment instructions.",
+      "source": {
+        "title": "Qualifications Scotland: Religious, Moral and Philosophical Studies",
+        "url": "https://www.sqa.org.uk/sqa/47421.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Religious, Moral and Philosophical Studies",
+      "areas": [
+        "World Religion",
+        "Morality and Belief",
+        "Religious and Philosophical Questions"
+      ],
+      "explain": "Develop deeper analysis and evaluation of arguments and perspectives. Use accurate examples while acknowledging diversity within worldviews.",
+      "assessment": "Question papers and assignment under current national arrangements; teachers confirm selected options.",
+      "source": {
+        "title": "Qualifications Scotland: Religious, Moral and Philosophical Studies",
+        "url": "https://www.sqa.org.uk/sqa/47911.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Describe accurately",
+      "explain": "Explain a view in terms its holder could recognise.",
+      "try": "Summarise a source without adding your judgement.",
+      "check": "Have you avoided “all believers think” when views vary?"
+    },
+    {
+      "title": "Build an argument",
+      "explain": "A conclusion needs reasons and relevant examples.",
+      "try": "Write a claim, a reason and an example illustrating that reason.",
+      "check": "Does the example actually support the claim?"
+    },
+    {
+      "title": "Evaluate fairly",
+      "explain": "Consider the strongest version of another view.",
+      "try": "Write an objection and a possible reply.",
+      "check": "Explain whether the reply answers the objection rather than repeating your opinion."
+    },
+    {
+      "title": "Listen with respect",
+      "explain": "Understanding does not require agreement.",
+      "try": "Paraphrase a partner’s argument before responding.",
+      "check": "Ask if your summary is fair; challenge the idea without judging the person."
+    }
+  ],
+  "practice": [
+    {
+      "question": "“Most people in our group support the rule, so the rule must be morally right.” Is that enough?",
+      "hint": "Popularity and moral justification are different kinds of claim.",
+      "answer": "No. Agreement tells us what a group thinks, but a moral defence also needs reasons, such as fairness, wellbeing or rights. A majority can overlook the interests of a minority.",
+      "extend": "Offer one reason for the rule and one possible objection."
+    },
+    {
+      "question": "A source says one member of a religion volunteers every week. Can we conclude all members do the same?",
+      "hint": "Think about the limits of a single example.",
+      "answer": "No. The source provides evidence about that individual. It may illustrate a belief in service, but frequency and motivation differ among people. Use careful language such as “some members”.",
+      "extend": "What evidence would help investigate a wider pattern?"
+    },
+    {
+      "question": "A fictional school has funding for either a quiet study space or extra sports equipment. Give a fair argument for each and a justified decision.",
+      "hint": "Identify the needs each choice meets and who might be affected.",
+      "answer": "Study space may support learners without quiet space at home; equipment may support physical wellbeing and participation. Either conclusion can be justified if it weighs need, access and likely benefit. An unsupported preference is weaker.",
+      "extend": "Suggest a compromise and explain what it would fail to solve."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Interfaith Scotland: youth and schools",
+      "url": "https://interfaithscotland.org/resources/youth-and-schools",
+      "kind": "Watch",
+      "task": "Use a first-person resource to record one belief, one practice and one question; avoid generalising to everyone."
+    },
+    {
+      "title": "Understanding Humanism",
+      "url": "https://understandinghumanism.org.uk/",
+      "kind": "Read",
+      "task": "Explain a humanist approach to a moral question using its own educational resources."
+    },
+    {
+      "title": "United Nations: Universal Declaration of Human Rights",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "kind": "Read",
+      "task": "Choose an article and explain a practical situation in which it matters."
+    },
+    {
+      "title": "UK Parliament learning",
+      "url": "https://learning.parliament.uk/en/",
+      "kind": "Watch",
+      "task": "Explore a rights or law resource, then distinguish what is legal from what is morally justified."
+    },
+    {
+      "title": "Official RMPS resources",
+      "url": "https://www.sqa.org.uk/sqa/45772.html",
+      "kind": "Try",
+      "task": "Select your level and compare a practice response with official marking guidance."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "An argument map",
+      "steps": [
+        "Write a clearly worded moral question.",
+        "Map two views with reasons, examples and objections.",
+        "Record a conclusion that weighs the strongest points."
+      ],
+      "evidence": "A balanced map and a justified personal conclusion; no disclosure of faith required."
+    },
+    {
+      "title": "A worldview glossary",
+      "steps": [
+        "Choose eight terms used in class.",
+        "Add a definition, reliable source and example.",
+        "Use audio or a home-language gloss to support understanding."
+      ],
+      "evidence": "An accurate glossary that distinguishes description from judgement."
+    },
+    {
+      "title": "Reflective audio",
+      "steps": [
+        "Choose an idea you reconsidered.",
+        "Record what you first thought and what evidence challenged it.",
+        "Add a transcript and a remaining question."
+      ],
+      "evidence": "A short reflection showing open-mindedness and respectful reasoning."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Social care and community work",
+      "linkToLearning": "Listening and understanding values support respectful services.",
+      "nextStep": "Explore college social-care courses and work-based routes."
+    },
+    {
+      "title": "Law and public policy",
+      "linkToLearning": "Ethical reasoning helps weigh competing rights and responsibilities.",
+      "nextStep": "Compare university law or social-science courses and public-service apprenticeships."
+    },
+    {
+      "title": "Education and youth work",
+      "linkToLearning": "Explaining ideas and supporting dialogue matter in learning.",
+      "nextStep": "Investigate college youth-work routes and teacher-education requirements."
+    },
+    {
+      "title": "Health and public service",
+      "linkToLearning": "Careful reasoning and respect for different worldviews support communication.",
+      "nextStep": "Explore healthcare college pathways and relevant university programmes."
+    }
+  ],
+  "parentTip": "Ask your young person to explain a reason for a view they do not share. Praise fair representation and thoughtful questions. They should never feel required to share private family beliefs to complete a learning task.",
+  "vocabulary": [
+    {
+      "en": "belief",
+      "ar": "اعتقاد"
+    },
+    {
+      "en": "religion",
+      "ar": "دين"
+    },
+    {
+      "en": "values",
+      "ar": "قيم"
+    },
+    {
+      "en": "respect",
+      "ar": "احترام"
+    },
+    {
+      "en": "reason",
+      "ar": "سبب"
+    },
+    {
+      "en": "rights",
+      "ar": "حقوق"
+    },
+    {
+      "en": "responsibility",
+      "ar": "مسؤولية"
+    },
+    {
+      "en": "ethics",
+      "ar": "أخلاق"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: Religious, Moral and Philosophical Studies",
+      "url": "https://www.sqa.org.uk/sqa/45772.html"
+    },
+    {
+      "title": "Qualifications Scotland: Religious, Moral and Philosophical Studies",
+      "url": "https://www.sqa.org.uk/sqa/47421.html"
+    },
+    {
+      "title": "Qualifications Scotland: Religious, Moral and Philosophical Studies",
+      "url": "https://www.sqa.org.uk/sqa/47911.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": "esol",
+  "name": "ESOL",
+  "strapline": "Your languages are a strength. Make English another tool.",
+  "intro": "English for Speakers of Other Languages supports learners whose first language is not English. Your existing knowledge and languages matter. Work on a manageable next step in reading, writing, listening or speaking, rather than comparing yourself with someone else. Suggested BGE themes are flexible learning contexts, not a fixed course or a judgement of ability. Your teacher will identify the appropriate qualification level.",
+  "bge": [
+    {
+      "title": "Finding my way",
+      "question": "How can I ask for information confidently?",
+      "learn": [
+        "School and community vocabulary",
+        "Polite questions",
+        "Clarifying and checking"
+      ],
+      "task": "Use a fictional school map. Ask how to reach three places and repeat the directions back to check understanding.",
+      "extend": "Practise “Could you say that more slowly?” and “Do you mean… ?” in a new situation."
+    },
+    {
+      "title": "Learning across subjects",
+      "question": "How do I explain what I already know?",
+      "learn": [
+        "Subject vocabulary",
+        "Sequencing an explanation",
+        "Using diagrams and examples"
+      ],
+      "task": "Choose a familiar science or geography idea. Label a diagram, then explain it in four linked sentences. Use your home language to plan if helpful.",
+      "extend": "Compare a subject word’s everyday meaning and its technical meaning."
+    },
+    {
+      "title": "Everyday choices",
+      "question": "How do I compare useful information?",
+      "learn": [
+        "Prices and quantities",
+        "Reading notices",
+        "Giving reasons"
+      ],
+      "task": "Compare two fictional travel offers. Identify the destination, time, cost and restrictions, then recommend one for a stated traveller.",
+      "extend": "Explain a limitation of your recommendation when information is missing."
+    },
+    {
+      "title": "My voice, my story",
+      "question": "How can I communicate an experience?",
+      "learn": [
+        "Past time expressions",
+        "Paragraphs and sequence",
+        "Speaking to an audience"
+      ],
+      "task": "Write or record a fictional day that went unexpectedly. Include when, where, what changed and how it ended.",
+      "extend": "Revise one part so a listener can follow the sequence without asking for clarification."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3",
+      "title": "ESOL",
+      "areas": [
+        "Everyday life",
+        "Reading, writing, listening and speaking",
+        "Work or study contexts as specified"
+      ],
+      "explain": "Develop straightforward communication for familiar situations. Placement depends on language learning needs, not age alone.",
+      "assessment": "Internal unit assessment. Your teacher confirms the correct units and evidence.",
+      "source": {
+        "title": "Qualifications Scotland: ESOL",
+        "url": "https://www.sqa.org.uk/sqa/48534.html"
+      }
+    },
+    {
+      "level": "National 4",
+      "title": "ESOL",
+      "areas": [
+        "ESOL for Everyday Life",
+        "ESOL in Context",
+        "Added value assignment"
+      ],
+      "explain": "Develop practical language and select information for a purposeful presentation and response to questions. Topic choices are agreed with the assessor.",
+      "assessment": "Internal units and added value assignment, assessed as pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland: ESOL",
+        "url": "https://www.sqa.org.uk/sqa/47404.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "ESOL",
+      "areas": [
+        "Everyday life",
+        "Work and study",
+        "Reading, writing, listening and speaking"
+      ],
+      "explain": "Understand and use English with increasing independence. Classroom topics support the national language skills; they are not all separate compulsory units.",
+      "assessment": "Reading, writing and listening question papers and a speaking performance under current guidance.",
+      "source": {
+        "title": "Qualifications Scotland: ESOL",
+        "url": "https://www.sqa.org.uk/sqa/45680.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "ESOL",
+      "areas": [
+        "Complex reading and listening",
+        "Purposeful writing",
+        "Speaking and interaction in everyday, work and study settings"
+      ],
+      "explain": "Develop more extended understanding and communication. The department must confirm availability and individual suitability.",
+      "assessment": "Use the current Higher course and assessment documents on the official ESOL page.",
+      "source": {
+        "title": "Qualifications Scotland: ESOL",
+        "url": "https://www.sqa.org.uk/sqa/45678.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Read in stages",
+      "explain": "Start with the purpose and layout before unknown words.",
+      "try": "Read a notice for its main message, then locate dates and conditions.",
+      "check": "Can you explain what action the reader should take?"
+    },
+    {
+      "title": "Listen for signposts",
+      "explain": "Words such as “however” and “finally” show relationships.",
+      "try": "Listen once for gist, then again for two specific details.",
+      "check": "Compare your notes with a transcript after your first attempt."
+    },
+    {
+      "title": "Keep a useful vocabulary record",
+      "explain": "Store a word with its meaning, example and related forms.",
+      "try": "Add “decide”, “decision” and an original sentence.",
+      "check": "Can you use the right form in a fresh sentence?"
+    },
+    {
+      "title": "Repair communication",
+      "explain": "Asking for clarification is a skilled response.",
+      "try": "Practise asking someone to repeat, rephrase or explain a word.",
+      "check": "Check the meaning back rather than pretending to understand."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Read this original notice: “The homework club opens at 3.15 on Tuesdays. Bring your own notes. Places must be booked before noon on Monday.” What must you do before attending?",
+      "hint": "Find the instruction and its deadline.",
+      "answer": "Book a place before noon on Monday and bring your notes. The club itself opens on Tuesday at 3.15; do not confuse the booking deadline with the start time.",
+      "extend": "Write a polite two-sentence booking request using a fictional name."
+    },
+    {
+      "question": "Improve this message: “Need help work. Tomorrow?” Make it clear and polite.",
+      "hint": "Include who you are asking, what help is needed and a specific request.",
+      "answer": "For example: “Hello, could you help me understand the graph question? Would it be possible to meet at lunchtime tomorrow?” Clear detail helps the reader respond.",
+      "extend": "Write a reply explaining that tomorrow is unavailable and offering another time."
+    },
+    {
+      "question": "Read: “Although the bus was late, Hana arrived before the lesson began.” Was Hana late for the lesson? Explain.",
+      "hint": "“Although” introduces a contrast between the bus and Hana’s arrival.",
+      "answer": "No. The bus was late, but Hana arrived before the lesson started. The sentence does not tell us exactly how early she arrived.",
+      "extend": "Rewrite the same meaning using “but”, then explain the punctuation change."
+    }
+  ],
+  "resources": [
+    {
+      "title": "British Council LearnEnglish Teens",
+      "url": "https://learnenglishteens.britishcouncil.org/",
+      "kind": "Try",
+      "task": "Choose a level-appropriate reading task, attempt the questions and review one error."
+    },
+    {
+      "title": "British Council Video zone",
+      "url": "https://learnenglishteens.britishcouncil.org/study-break/video-zone",
+      "kind": "Watch",
+      "task": "Predict the topic, watch once for gist, then use captions or transcript to check three details."
+    },
+    {
+      "title": "British Council general English audio and reading",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/general",
+      "kind": "Listen",
+      "task": "Choose a short audio and note a useful expression you can use tomorrow."
+    },
+    {
+      "title": "Scottish Book Trust learning resources",
+      "url": "https://www.scottishbooktrust.com/learning-resources",
+      "kind": "Read",
+      "task": "Choose an accessible story resource and retell it with a beginning, change and ending."
+    },
+    {
+      "title": "Qualifications Scotland ESOL",
+      "url": "https://www.sqa.org.uk/sqa/45678.html",
+      "kind": "Read",
+      "task": "Find the correct level with your teacher and use its official learner examples or papers."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "A personal language notebook",
+      "steps": [
+        "Choose five words from today’s learning.",
+        "Add an English definition, home-language gloss and your own example.",
+        "Record pronunciation and revisit the words after a few days."
+      ],
+      "evidence": "Five words used accurately in a new explanation."
+    },
+    {
+      "title": "Listen, notice, improve",
+      "steps": [
+        "Record a short explanation of an imagined event.",
+        "Listen for one unclear phrase and one missing connection.",
+        "Record again and add a transcript."
+      ],
+      "evidence": "Two versions and a specific note about improvement."
+    },
+    {
+      "title": "Read a diagram aloud",
+      "steps": [
+        "Use a teacher-approved subject diagram.",
+        "Label key terms and organise your explanation in numbered steps.",
+        "Record while pointing to the relevant parts on screen."
+      ],
+      "evidence": "A narrated diagram showing subject knowledge and developing English."
+    }
+  ],
+  "careers": [
+    {
+      "title": "College and further study",
+      "linkToLearning": "English supports understanding instructions and sharing subject expertise.",
+      "nextStep": "Explore college ESOL and vocational pathways with guidance staff."
+    },
+    {
+      "title": "Customer service and hospitality",
+      "linkToLearning": "Clarifying requests and speaking politely support visitors and colleagues.",
+      "nextStep": "Compare college hospitality courses and apprenticeships."
+    },
+    {
+      "title": "Health and community roles",
+      "linkToLearning": "Accurate listening and checking meaning matter in services.",
+      "nextStep": "Investigate relevant college entry requirements and language support."
+    },
+    {
+      "title": "Your specialist interests",
+      "linkToLearning": "ESOL can support engineering, creative work, business or university study.",
+      "nextStep": "Choose an interest and identify the English tasks used in that field."
+    }
+  ],
+  "parentTip": "Continue rich conversations and reading in your home language. Ask your young person to explain one new idea in whichever language helps them think, then practise a short English explanation. Progress in English takes time and does not measure intelligence.",
+  "vocabulary": [
+    {
+      "en": "listen",
+      "ar": "استمع"
+    },
+    {
+      "en": "speak",
+      "ar": "تحدث"
+    },
+    {
+      "en": "read",
+      "ar": "اقرأ"
+    },
+    {
+      "en": "write",
+      "ar": "اكتب"
+    },
+    {
+      "en": "explain",
+      "ar": "اشرح"
+    },
+    {
+      "en": "compare",
+      "ar": "قارن"
+    },
+    {
+      "en": "question",
+      "ar": "سؤال"
+    },
+    {
+      "en": "example",
+      "ar": "مثال"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: ESOL",
+      "url": "https://www.sqa.org.uk/sqa/48534.html"
+    },
+    {
+      "title": "Qualifications Scotland: ESOL",
+      "url": "https://www.sqa.org.uk/sqa/47404.html"
+    },
+    {
+      "title": "Qualifications Scotland: ESOL",
+      "url": "https://www.sqa.org.uk/sqa/45680.html"
+    },
+    {
+      "title": "Qualifications Scotland: ESOL",
+      "url": "https://www.sqa.org.uk/sqa/45678.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}

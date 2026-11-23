@@ -1,0 +1,287 @@
+{
+  "id": "physics",
+  "name": "Physics",
+  "strapline": "Understand the forces shaping our world.",
+  "intro": "Use models, measurements and mathematics to explain motion, energy and technology. Suggested BGE projects need departmental review. National course content is separated from optional exploration. All physical investigations require teacher direction and school safety procedures; independent tasks here use supplied data, diagrams or simulations.",
+  "bge": [
+    {
+      "title": "Motion around Govan",
+      "question": "How can we describe a journey?",
+      "learn": [
+        "Distinguish distance and displacement.",
+        "Calculate average speed.",
+        "Interpret motion graphs."
+      ],
+      "task": "Use a fictional bus timetable to calculate average speed between stops. Explain the assumptions.",
+      "extend": "Sketch why a journey’s average speed differs from its maximum speed."
+    },
+    {
+      "title": "Powering our future",
+      "question": "Where does useful energy go?",
+      "learn": [
+        "Describe energy transfers.",
+        "Compare power and energy.",
+        "Interpret efficiency data."
+      ],
+      "task": "Draw an energy-transfer diagram for a lamp and explain the meaning of wasted energy.",
+      "extend": "Compare two lighting options using energy and lifetime data."
+    },
+    {
+      "title": "Signals and sound",
+      "question": "How does information travel?",
+      "learn": [
+        "Describe frequency and amplitude.",
+        "Identify wave features.",
+        "Link models to communication."
+      ],
+      "task": "Annotate a supplied wave diagram and write what would change for a higher-pitched sound.",
+      "extend": "Explain why sound cannot cross a vacuum."
+    },
+    {
+      "title": "Space explorers",
+      "question": "What can light tell us about space?",
+      "learn": [
+        "Use the idea of a light-year.",
+        "Compare stars and planets.",
+        "Read astronomical scales."
+      ],
+      "task": "Create a scale comparison from NASA data with units and an explanation of what is omitted.",
+      "extend": "Explain why seeing a distant galaxy means seeing its past."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3 / National 4",
+      "title": "Physics",
+      "areas": [
+        "Electricity and Energy",
+        "Waves and Radiation",
+        "Dynamics and Space"
+      ],
+      "explain": "Build explanations through numerical work and enquiry. National 4 adds an investigation assignment.",
+      "assessment": "Internally assessed units, with added value at National 4; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — Physics",
+        "url": "https://www.sqa.org.uk/sqa/45912.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Physics",
+      "areas": [
+        "Dynamics",
+        "Space",
+        "Electricity",
+        "Properties of Matter",
+        "Waves",
+        "Radiation"
+      ],
+      "explain": "Connect six content areas through problem solving, experimental evidence, equations and units.",
+      "assessment": "Question paper and assignment. This hub’s calculations are practice examples, not live assignment responses.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Physics",
+        "url": "https://www.sqa.org.uk/sqa/47430.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Physics",
+      "areas": [
+        "Our Dynamic Universe",
+        "Particles and Waves",
+        "Electricity",
+        "Researching Physics skills"
+      ],
+      "explain": "Extend motion, gravitation, waves, particles, circuits and fields using mathematical models. Researching Physics supports enquiry.",
+      "assessment": "Question paper and assignment; use the current session specification.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Physics",
+        "url": "https://www.sqa.org.uk/sqa/45912.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Select a relationship",
+      "explain": "List quantities, units and the unknown before choosing an equation.",
+      "try": "Find acceleration for velocity changing from 4 to 16 m s⁻¹ in 3 s.",
+      "check": "a = (16 − 4)/3 = 4 m s⁻²."
+    },
+    {
+      "title": "Read a circuit",
+      "explain": "Trace connected points, identifying series paths and parallel branches.",
+      "try": "Explain where a voltmeter measures the potential difference across a component.",
+      "check": "It connects in parallel; an ammeter measures current in series."
+    },
+    {
+      "title": "Use a graph",
+      "explain": "Gradient represents change in the vertical quantity divided by change in the horizontal quantity.",
+      "try": "Explain the gradient of a velocity–time graph.",
+      "check": "It is acceleration, with units m s⁻²; area represents displacement."
+    },
+    {
+      "title": "Evaluate measurement",
+      "explain": "Resolution, random variation and systematic effects influence results.",
+      "try": "Compare five repeated timings with one reading.",
+      "check": "Repeats help assess random variation; they do not automatically remove systematic error."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A 12 V supply passes 0.50 A through a resistor. Calculate resistance and power.",
+      "hint": "Use V = IR and P = VI.",
+      "answer": "R = 12/0.50 = 24 Ω. P = 12 × 0.50 = 6.0 W. Include both units and show substitution.",
+      "extend": "Predict the current if voltage doubles and resistance stays constant."
+    },
+    {
+      "question": "A wave has frequency 5 Hz and wavelength 2 m. What is its speed? Explain what frequency measures.",
+      "hint": "Use v = fλ.",
+      "answer": "v = 5 × 2 = 10 m s⁻¹. Frequency is the number of complete oscillations per second, not the distance between peaks.",
+      "extend": "If speed stays constant and frequency doubles, calculate the new wavelength."
+    },
+    {
+      "question": "Two identical balls are dropped from the same height; one experiences substantial air resistance. Must they arrive together?",
+      "hint": "Separate the ideal model from actual forces.",
+      "answer": "In the ideal no-air-resistance model, acceleration is the same. With substantial air resistance, net force and acceleration can differ, so arrival times need not match.",
+      "extend": "Explain which measurements could test whether air resistance matters."
+    }
+  ],
+  "resources": [
+    {
+      "title": "PhET simulations",
+      "url": "https://phet.colorado.edu/",
+      "kind": "Try",
+      "task": "Explore Circuit Construction Kit virtually and record a prediction before changing a circuit."
+    },
+    {
+      "title": "NASA learning resources",
+      "url": "https://www.nasa.gov/learning-resources/",
+      "kind": "Watch",
+      "task": "Choose a space explanation and distinguish an observation from its interpretation."
+    },
+    {
+      "title": "Institute of Physics",
+      "url": "https://www.iop.org/explore-physics",
+      "kind": "Read",
+      "task": "Connect one physics story to a course concept and explain its relevance."
+    },
+    {
+      "title": "Royal Institution films",
+      "url": "https://www.rigb.org/explore-science",
+      "kind": "Watch",
+      "task": "Find a physics talk and create three retrieval questions; do not reproduce demonstrations."
+    },
+    {
+      "title": "Official past papers",
+      "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm",
+      "kind": "Try",
+      "task": "Attempt one calculation before revealing the official marking instructions."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Explain a graph",
+      "steps": [
+        "Import a teacher-provided motion graph.",
+        "Annotate three intervals with physical meaning.",
+        "Record a narrated explanation including units."
+      ],
+      "evidence": "A labelled graph and a 60-second explanation."
+    },
+    {
+      "title": "Simulation investigation",
+      "steps": [
+        "Choose a teacher-approved simulation variable.",
+        "Capture three settings and record outcomes in a table.",
+        "State a trend and the limits of the model."
+      ],
+      "evidence": "Screenshots support an explanation, rather than replace one."
+    },
+    {
+      "title": "Equation clinic",
+      "steps": [
+        "Write a worked solution with quantities and units.",
+        "Use screen recording to explain each step.",
+        "Correct a deliberate unit error in a second example."
+      ],
+      "evidence": "Two solutions showing reasoning and checking."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Renewable energy technician",
+      "linkToLearning": "Electrical and energy knowledge supports installation and maintenance.",
+      "nextStep": "Explore engineering college courses and apprenticeships."
+    },
+    {
+      "title": "Medical physicist",
+      "linkToLearning": "Radiation and measurement support diagnosis and treatment technology.",
+      "nextStep": "Investigate physics degrees and professional clinical training requirements."
+    },
+    {
+      "title": "Software and data specialist",
+      "linkToLearning": "Modelling and problem solving transfer into digital work.",
+      "nextStep": "Compare computing apprenticeships, college and university pathways."
+    },
+    {
+      "title": "Civil or mechanical engineer",
+      "linkToLearning": "Forces, materials and motion shape safe designs.",
+      "nextStep": "Compare engineering disciplines and their entry requirements."
+    }
+  ],
+  "parentTip": "Ask for a diagram explaining a familiar technology. Praise the use of units and evidence, and encourage questions when a model does not match the real world.",
+  "vocabulary": [
+    {
+      "en": "Force",
+      "ar": "قوة"
+    },
+    {
+      "en": "Energy",
+      "ar": "طاقة"
+    },
+    {
+      "en": "Power",
+      "ar": "قدرة"
+    },
+    {
+      "en": "Wave",
+      "ar": "موجة"
+    },
+    {
+      "en": "Speed",
+      "ar": "سرعة"
+    },
+    {
+      "en": "Current",
+      "ar": "تيار"
+    },
+    {
+      "en": "Voltage",
+      "ar": "جهد كهربائي"
+    },
+    {
+      "en": "Radiation",
+      "ar": "إشعاع"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — Physics",
+      "url": "https://www.sqa.org.uk/sqa/45912.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Physics",
+      "url": "https://www.sqa.org.uk/sqa/47430.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Physics",
+      "url": "https://www.sqa.org.uk/sqa/45912.html"
+    }
+  ],
+  "visual": {
+    "title": "Read a distance–time graph",
+    "question": "A person travels 20 m in 10 s, waits for 5 s, then travels another 20 m in 5 s. Which section has the greatest speed?",
+    "answer": "The final section: 20 m ÷ 5 s = 4 m/s. The first section is 2 m/s. The horizontal section represents no change in distance: the person is stationary.",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 360\" role=\"img\" aria-label=\"Read a distance–time graph\"><rect width=\"520\" height=\"360\" fill=\"#f2f7f8\"/><path d=\"M70 290H470M90 310V30\" stroke=\"#19354a\" stroke-width=\"2\"/><path d=\"M90 290L260 180H345L430 70\" fill=\"none\" stroke=\"#394f92\" stroke-width=\"5\"/><g fill=\"#19354a\" font-family=\"Arial\" font-size=\"18\"><text x=\"340\" y=\"333\">Time / s</text><text x=\"15\" y=\"25\">Distance / m</text><text x=\"80\" y=\"315\">0</text><text x=\"245\" y=\"315\">10</text><text x=\"332\" y=\"315\">15</text><text x=\"418\" y=\"315\">20</text><text x=\"55\" y=\"185\">20</text><text x=\"55\" y=\"75\">40</text></g></svg>"
+  }
+}

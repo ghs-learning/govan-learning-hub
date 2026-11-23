@@ -1,0 +1,301 @@
+{
+  "id": "administration",
+  "name": "Administration",
+  "strapline": "Make information clear. Make work run well.",
+  "intro": "Administration is practical problem solving: organising tasks, communicating accurately and turning information into useful documents. Good administrators think about accessibility, confidentiality and the needs of their audience as well as presentation. Suggested BGE projects use invented information. The senior qualification is Administration and IT; national requirements must be met using the software and procedures confirmed by the department.",
+  "bge": [
+    {
+      "title": "Run an event",
+      "question": "What needs to happen before the doors open?",
+      "learn": [
+        "Task planning and priorities",
+        "Roles and deadlines",
+        "Clear event information"
+      ],
+      "task": "Plan a fictional school exhibition. Create a checklist, schedule and invitation using invented names and dates.",
+      "extend": "Identify a task that depends on another task and explain the effect of delay."
+    },
+    {
+      "title": "Spreadsheet detectives",
+      "question": "How can a formula reduce repeated work?",
+      "learn": [
+        "Cell references and formulas",
+        "Formatting data",
+        "Checking totals"
+      ],
+      "task": "Build a fictional stationery budget with quantity, unit cost and total cost. Use formulas, then change a quantity and check the result.",
+      "extend": "Create a chart only if it helps answer a specific question."
+    },
+    {
+      "title": "A message that works",
+      "question": "How do I make information easy to act on?",
+      "learn": [
+        "Audience and tone",
+        "Email structure",
+        "Accessible document design"
+      ],
+      "task": "Rewrite a confusing fictional event message with a clear subject, required action and deadline.",
+      "extend": "Test whether a reader can find the key action within ten seconds."
+    },
+    {
+      "title": "Organise responsibly",
+      "question": "Why does a small data error matter?",
+      "learn": [
+        "Accuracy and verification",
+        "File organisation",
+        "Confidentiality"
+      ],
+      "task": "Create an invented contact list and spot duplicated or inconsistent entries. Design a sensible folder structure for the project.",
+      "extend": "Explain why a public website should not be used to store pupils’ private information."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3",
+      "title": "Administration and IT",
+      "areas": [
+        "Administration in Action",
+        "Communication in Administration",
+        "IT Solutions for Administrators"
+      ],
+      "explain": "Develop practical administrative and IT skills in straightforward contexts. Classroom software examples are teaching choices.",
+      "assessment": "Three internally assessed units, with course results recorded as pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland: Administration and IT",
+        "url": "https://www.sqa.org.uk/sqa/45943.html"
+      }
+    },
+    {
+      "level": "National 4",
+      "title": "Administration and IT",
+      "areas": [
+        "Administrative Practices",
+        "IT Solutions for Administrators",
+        "Communication in Administration",
+        "Added value assignment"
+      ],
+      "explain": "Apply administration and IT skills to purposeful tasks. A polished practice project does not replace required assessed evidence.",
+      "assessment": "Internal units and added value assignment, assessed as pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland: Administration and IT",
+        "url": "https://www.sqa.org.uk/sqa/45943.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "Administration and IT",
+      "areas": [
+        "Administrative practices",
+        "IT solutions",
+        "Communication and organisation"
+      ],
+      "explain": "Use IT applications accurately and understand administration in the workplace. Tasks and software must match the current specification.",
+      "assessment": "Question paper and assignment; teachers provide authorised assessment materials and explain permitted support.",
+      "source": {
+        "title": "Qualifications Scotland: Administration and IT",
+        "url": "https://www.sqa.org.uk/sqa/45943.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Administration and IT",
+      "areas": [
+        "Administrative theory and practice",
+        "Advanced IT application",
+        "Information management and communication"
+      ],
+      "explain": "Develop more complex administrative problem solving and efficient IT use. School software access and workflow must be confirmed.",
+      "assessment": "Question paper and assignment under current national conditions. Use current official instructions.",
+      "source": {
+        "title": "Qualifications Scotland: Administration and IT",
+        "url": "https://www.sqa.org.uk/sqa/45943.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Read the instruction precisely",
+      "explain": "Action words and conditions determine what a task requires.",
+      "try": "Highlight the file type, audience, deadline and required output.",
+      "check": "Have you completed every part rather than only making the page attractive?"
+    },
+    {
+      "title": "Check formulas independently",
+      "explain": "A spreadsheet can calculate the wrong thing very efficiently.",
+      "try": "Calculate one row manually and compare it with the formula.",
+      "check": "Check references, ranges, units and what happens when an input changes."
+    },
+    {
+      "title": "Communicate for action",
+      "explain": "Readers should know what to do next.",
+      "try": "Draft an email with a descriptive subject, brief context and clear request.",
+      "check": "Check recipient, tone, spelling and attachment before sending a practice copy."
+    },
+    {
+      "title": "Manage versions and information",
+      "explain": "A clear naming system reduces lost work and confusion.",
+      "try": "Save a dated draft and a clearly named final version.",
+      "check": "Can another person identify the correct file without opening every document?"
+    }
+  ],
+  "practice": [
+    {
+      "question": "In a spreadsheet, B2 is quantity 6 and C2 is unit price £2.40. What formula belongs in D2, and what is the result?",
+      "hint": "Multiply the two cells rather than typing a fixed total.",
+      "answer": "=B2*C2 gives £14.40. A formula updates when an input changes; a typed 14.40 does not. Apply currency formatting to the output.",
+      "extend": "If the formula is copied down, explain why relative references normally change to B3 and C3."
+    },
+    {
+      "question": "Original message: “Meeting changed. Come later. Bring it.” Rewrite it so an invented recipient can act on it.",
+      "hint": "Supply the missing time, place, purpose and object.",
+      "answer": "For example: “Project meeting moved to 2 pm on Thursday in Room 4. Please bring the draft exhibition budget.” This replaces vague references with specific information.",
+      "extend": "Add a clear subject line and a request to confirm receipt."
+    },
+    {
+      "question": "A practice contact list contains two entries for the same fictional person with different phone numbers. Should you delete one immediately?",
+      "hint": "Consider accuracy and the source of the information.",
+      "answer": "No. Flag the inconsistency and verify against the authorised source or agreed procedure before changing it. Guessing could remove the correct record. Use invented data for this exercise.",
+      "extend": "Write a short checking procedure that records who verified the correction and when."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Microsoft 365 support",
+      "url": "https://www.microsoft.com/en-gb/microsoft-365/support",
+      "kind": "Watch",
+      "task": "Find help for one spreadsheet or document feature, practise it and explain when it is useful."
+    },
+    {
+      "title": "Microsoft Learn: Microsoft 365",
+      "url": "https://learn.microsoft.com/en-gb/training/browse/?products=m365",
+      "kind": "Try",
+      "task": "Choose a relevant beginner learning item with your teacher; record one technique you can apply."
+    },
+    {
+      "title": "ICO: data security advice",
+      "url": "https://ico.org.uk/for-organisations/advice-for-small-organisations/information-security/data-security-advice/",
+      "kind": "Read",
+      "task": "Identify two ways an administrative mistake can expose information. Apply school procedures rather than collecting real personal data."
+    },
+    {
+      "title": "Business Gateway resources",
+      "url": "https://www.bgateway.com/resources",
+      "kind": "Read",
+      "task": "Choose an organisation or planning guide and turn one section into a practical checklist."
+    },
+    {
+      "title": "Qualifications Scotland Administration and IT",
+      "url": "https://www.sqa.org.uk/sqa/45943.html",
+      "kind": "Try",
+      "task": "Select your level and compare a practice output with official assessment examples where available."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "A portable event organiser",
+      "steps": [
+        "Create a fictional event checklist and calendar plan.",
+        "Draft an accessible invitation with clear headings.",
+        "Export a PDF and check its layout on the iPad screen."
+      ],
+      "evidence": "A small event pack with consistent dates and a checked export."
+    },
+    {
+      "title": "A spreadsheet that explains itself",
+      "steps": [
+        "Enter invented stock or budget data in a spreadsheet.",
+        "Use formulas and descriptive column headings.",
+        "Add a short screen recording explaining one calculation."
+      ],
+      "evidence": "A working sheet and narration, with no private records."
+    },
+    {
+      "title": "An accessibility quality check",
+      "steps": [
+        "Open a practice document on your iPad.",
+        "Check text size, contrast, reading order and image descriptions.",
+        "Revise two barriers and explain the improvement."
+      ],
+      "evidence": "A before-and-after document with an accessibility checklist."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Business administration apprenticeship",
+      "linkToLearning": "Reliable organisation and communication support teams.",
+      "nextStep": "Explore administration apprenticeships and compare entry requirements."
+    },
+    {
+      "title": "College Administration and IT",
+      "linkToLearning": "Practical software skills can develop into advanced workplace competence.",
+      "nextStep": "Compare college NC and HNC/HND routes and progression agreements."
+    },
+    {
+      "title": "Events, hospitality and public services",
+      "linkToLearning": "Scheduling, accurate information and customer care keep services running.",
+      "nextStep": "Investigate event-management or service-sector courses and work-based routes."
+    },
+    {
+      "title": "University and specialist administration",
+      "linkToLearning": "Information management complements business, health and professional services.",
+      "nextStep": "Compare business or information-related degrees and relevant college articulation routes."
+    }
+  ],
+  "parentTip": "Ask your young person to explain the purpose of a document and demonstrate one formula. Encourage a final accuracy check before they finish. Use fictional details for practice instead of family contact lists or financial records.",
+  "vocabulary": [
+    {
+      "en": "document",
+      "ar": "مستند"
+    },
+    {
+      "en": "spreadsheet",
+      "ar": "جدول بيانات"
+    },
+    {
+      "en": "formula",
+      "ar": "صيغة"
+    },
+    {
+      "en": "file",
+      "ar": "ملف"
+    },
+    {
+      "en": "folder",
+      "ar": "مجلد"
+    },
+    {
+      "en": "accuracy",
+      "ar": "دقة"
+    },
+    {
+      "en": "communication",
+      "ar": "تواصل"
+    },
+    {
+      "en": "deadline",
+      "ar": "موعد نهائي"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: Administration and IT",
+      "url": "https://www.sqa.org.uk/sqa/45943.html"
+    },
+    {
+      "title": "Qualifications Scotland: Administration and IT",
+      "url": "https://www.sqa.org.uk/sqa/45943.html"
+    },
+    {
+      "title": "Qualifications Scotland: Administration and IT",
+      "url": "https://www.sqa.org.uk/sqa/45943.html"
+    },
+    {
+      "title": "Qualifications Scotland: Administration and IT",
+      "url": "https://www.sqa.org.uk/sqa/45943.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}

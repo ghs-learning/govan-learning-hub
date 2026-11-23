@@ -1,0 +1,284 @@
+{
+  "id": "history",
+  "name": "History",
+  "strapline": "Ask the past a better question.",
+  "intro": "History is an investigation into how people lived, why events happened and how we know. Sources never speak entirely for themselves: historians ask who produced them, what they reveal and what is missing. Suggested BGE enquiries below are not confirmed Govan course choices. Senior national courses require Scottish, British and European/world contexts, with specific options selected by the department.",
+  "bge": [
+    {
+      "title": "Govan: work and change",
+      "question": "How did industry reshape a community?",
+      "learn": [
+        "Chronology and change",
+        "Using photographs and maps",
+        "Work and everyday life"
+      ],
+      "task": "Compare a historical image of Govan with a modern view from a trusted collection. List three visible changes and two questions the images cannot answer.",
+      "extend": "Investigate whose experiences might be absent from a celebratory account of industry."
+    },
+    {
+      "title": "Power and protest",
+      "question": "How do ordinary people change society?",
+      "learn": [
+        "Demands and grievances",
+        "Different methods of protest",
+        "Short- and long-term consequences"
+      ],
+      "task": "Choose a teacher-approved campaign for rights. Create a timeline linking a grievance, an action and a response.",
+      "extend": "Compare the importance of individual leadership and wider conditions."
+    },
+    {
+      "title": "Scotland in a connected world",
+      "question": "What can objects reveal about connections?",
+      "learn": [
+        "Trade and migration",
+        "Provenance of objects",
+        "Perspective and empire"
+      ],
+      "task": "Use a museum object to trace a connection between Scotland and another place. Distinguish a supported claim from a question.",
+      "extend": "Consider who made the object, who used it and how it reached the collection."
+    },
+    {
+      "title": "Conflict and remembrance",
+      "question": "Why do societies remember differently?",
+      "learn": [
+        "Cause and consequence",
+        "Personal testimony",
+        "Memorials and interpretation"
+      ],
+      "task": "Compare two teacher-approved memorials or museum accounts. Explain their purpose and intended audience.",
+      "extend": "Suggest an additional perspective that would make an exhibition more representative."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3/4",
+      "title": "History",
+      "areas": [
+        "Scottish contexts",
+        "British contexts",
+        "European and world contexts",
+        "National 4 added value"
+      ],
+      "explain": "Develop knowledge and basic source skills through nationally available options. Your teacher confirms the actual periods taught.",
+      "assessment": "Internal unit assessment; National 4 also includes an added value assignment.",
+      "source": {
+        "title": "Qualifications Scotland: History",
+        "url": "https://www.sqa.org.uk/sqa/45628.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "History",
+      "areas": [
+        "Scottish context",
+        "British context",
+        "European and world context",
+        "Historical research"
+      ],
+      "explain": "Apply contextual knowledge, explain factors and evaluate historical sources. Only study your department’s selected options for assessment preparation.",
+      "assessment": "Question paper and assignment. Use current assignment guidance and the permitted resource sheet.",
+      "source": {
+        "title": "Qualifications Scotland: History",
+        "url": "https://www.sqa.org.uk/sqa/47447.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "History",
+      "areas": [
+        "Scottish history",
+        "British history",
+        "European and world history",
+        "Independent historical enquiry"
+      ],
+      "explain": "Develop analysis, evaluation and supported judgements. The selected national options, rather than every historical topic, form your taught course.",
+      "assessment": "Question papers and assignment. The current official page includes assessment resources and course reports.",
+      "source": {
+        "title": "Qualifications Scotland: History",
+        "url": "https://www.sqa.org.uk/sqa/47923.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Interrogate provenance",
+      "explain": "Origin and purpose affect how a source can be used.",
+      "try": "Record author, date, audience and purpose before reading closely.",
+      "check": "Explain what that origin helps us investigate; “biased” alone is not an evaluation."
+    },
+    {
+      "title": "Corroborate carefully",
+      "explain": "Agreement can strengthen a claim, but sources may depend on each other.",
+      "try": "Compare two accounts of the same event and identify a precise agreement.",
+      "check": "Are they independent, and where do their details differ?"
+    },
+    {
+      "title": "Explain a causal chain",
+      "explain": "A factor matters because it changes what happens next.",
+      "try": "Use “This led to…” to connect a cause with an outcome.",
+      "check": "Have you explained a mechanism rather than simply listing events?"
+    },
+    {
+      "title": "Reach a supported judgement",
+      "explain": "A conclusion weighs relevant evidence against a clear question.",
+      "try": "Rank two causes using stated criteria.",
+      "check": "Explain why one carries greater weight, while recognising another contribution."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Original practice source: a factory owner writes in a public brochure, “Our workers enjoy excellent conditions.” How useful is it for investigating working conditions?",
+      "hint": "Consider what an owner might know and the purpose of a promotional brochure.",
+      "answer": "It offers the employer’s public account and may reveal the image the company wanted to present. Its promotional purpose may encourage omission of problems. Compare it with inspection records and workers’ accounts; do not simply dismiss it as useless.",
+      "extend": "What extra information about date or audience would help evaluation?"
+    },
+    {
+      "question": "A fictional town’s employment rises after a railway opens, but a new factory also opens. Does the railway alone explain the increase?",
+      "hint": "Distinguish a sequence from a demonstrated cause.",
+      "answer": "No. The railway could improve access to markets and workers, but factory recruitment may also matter. We need evidence about timing, job types and transport use before judging their relative importance.",
+      "extend": "Write a paragraph explaining one possible link and one limitation."
+    },
+    {
+      "question": "Two accounts agree that a meeting was crowded. One calls it “inspiring”; the other calls it “disorderly”. Identify agreement and disagreement.",
+      "hint": "Separate an observable detail from an interpretation.",
+      "answer": "They agree on high attendance. They differ in judgement about the meeting’s character. Both could describe the same crowd from different perspectives.",
+      "extend": "Suggest a third source that might test a specific claim, such as a photograph or attendance record."
+    }
+  ],
+  "resources": [
+    {
+      "title": "National Museums Scotland schools",
+      "url": "https://www.nms.ac.uk/schools",
+      "kind": "Read",
+      "task": "Choose an object and build a question about its maker, use and journey."
+    },
+    {
+      "title": "National Library of Scotland: research tools",
+      "url": "https://www.nls.uk/tools-for-research/how-to-begin-your-research/",
+      "kind": "Read",
+      "task": "Find a relevant collection and keep a source log with full references."
+    },
+    {
+      "title": "Imperial War Museums learning",
+      "url": "https://www.iwm.org.uk/learning",
+      "kind": "Watch",
+      "task": "Choose age-appropriate testimony or a film, identify its perspective and compare it with another source."
+    },
+    {
+      "title": "UK Parliament learning",
+      "url": "https://learning.parliament.uk/en/",
+      "kind": "Watch",
+      "task": "Explore a history-of-democracy resource and distinguish a law from a campaign for change."
+    },
+    {
+      "title": "Official History papers and marking instructions",
+      "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm?subject=History",
+      "kind": "Try",
+      "task": "Attempt one question from your selected option before consulting marking guidance."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Source investigation board",
+      "steps": [
+        "Save a permitted image with its collection reference.",
+        "Annotate observation, inference and uncertainty in different colours.",
+        "Add a second source to test one inference."
+      ],
+      "evidence": "A referenced source board with a revised conclusion."
+    },
+    {
+      "title": "A timeline with an argument",
+      "steps": [
+        "Choose six events relevant to an enquiry.",
+        "Create a timeline with cause-and-effect links.",
+        "Record a short explanation of the most significant turning point."
+      ],
+      "evidence": "A timeline that explains change rather than listing dates."
+    },
+    {
+      "title": "Museum audio guide",
+      "steps": [
+        "Select a teacher-approved object.",
+        "Write a 90-second script with a claim and supporting evidence.",
+        "Record it and provide a transcript and source list."
+      ],
+      "evidence": "An accessible audio guide acknowledging what remains unknown."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Museums and heritage",
+      "linkToLearning": "Source interpretation helps explain collections to different audiences.",
+      "nextStep": "Explore college heritage-related courses and museum volunteering information."
+    },
+    {
+      "title": "Law, journalism and research",
+      "linkToLearning": "Checking evidence and recognising perspective support reliable reporting.",
+      "nextStep": "Compare university courses and journalism apprenticeships where available."
+    },
+    {
+      "title": "Public service and policy",
+      "linkToLearning": "Understanding change helps explain institutions and choices.",
+      "nextStep": "Explore civil-service apprenticeship and university social-science routes."
+    },
+    {
+      "title": "Tourism and local enterprise",
+      "linkToLearning": "Historical storytelling can connect visitors with a place.",
+      "nextStep": "Investigate college tourism courses and design a sourced local walking-stop script."
+    }
+  ],
+  "parentTip": "Ask “What is the evidence?” when discussing a historical programme or family object. Encourage your young person to keep uncertainty visible; a careful question is often more valuable than a confident guess.",
+  "vocabulary": [
+    {
+      "en": "history",
+      "ar": "تاريخ"
+    },
+    {
+      "en": "source",
+      "ar": "مصدر"
+    },
+    {
+      "en": "evidence",
+      "ar": "دليل"
+    },
+    {
+      "en": "cause",
+      "ar": "سبب"
+    },
+    {
+      "en": "consequence",
+      "ar": "نتيجة"
+    },
+    {
+      "en": "change",
+      "ar": "تغيير"
+    },
+    {
+      "en": "chronology",
+      "ar": "تسلسل زمني"
+    },
+    {
+      "en": "interpretation",
+      "ar": "تفسير"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: History",
+      "url": "https://www.sqa.org.uk/sqa/45628.html"
+    },
+    {
+      "title": "Qualifications Scotland: History",
+      "url": "https://www.sqa.org.uk/sqa/47447.html"
+    },
+    {
+      "title": "Qualifications Scotland: History",
+      "url": "https://www.sqa.org.uk/sqa/47923.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}

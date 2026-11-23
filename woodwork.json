@@ -1,0 +1,279 @@
+{
+  "id": "woodwork",
+  "name": "Woodwork",
+  "strapline": "Measure carefully. Make with purpose.",
+  "intro": "Explore materials, craftsmanship and responsible manufacture. BGE projects are suggestions only. Woodwork learning at home should focus on drawings, material choices and evaluation: tools, machines, finishes and practical making require teacher direction and school workshop safety procedures. National 4 and National 5 Practical Woodworking are genuine routes; there is no Higher Practical Woodworking.",
+  "bge": [
+    {
+      "title": "Wood as a material",
+      "question": "Why choose one timber over another?",
+      "learn": [
+        "Recognise hardwoods and softwoods.",
+        "Compare properties and uses.",
+        "Consider responsible sourcing."
+      ],
+      "task": "Create a comparison card for two timbers using appearance, workability and intended use.",
+      "extend": "Explain why hardwood does not mean every hardwood is physically harder than every softwood."
+    },
+    {
+      "title": "Precision from a plan",
+      "question": "How does accuracy begin before cutting?",
+      "learn": [
+        "Read dimensions.",
+        "Identify reference faces and edges.",
+        "Plan measurement checks."
+      ],
+      "task": "Annotate a supplied drawing with a sequence of checks before any teacher-directed making.",
+      "extend": "Explain why repeated measuring from a reliable datum can reduce accumulated error."
+    },
+    {
+      "title": "Joining ideas",
+      "question": "What makes a joint suitable?",
+      "learn": [
+        "Recognise common woodworking joints.",
+        "Relate joint choice to load and appearance.",
+        "Read assembly drawings."
+      ],
+      "task": "Compare two illustrated joints for a small frame and justify a choice without making it at home.",
+      "extend": "Identify a trade-off between appearance, strength and ease of manufacture."
+    },
+    {
+      "title": "Design for long life",
+      "question": "Can a product be repaired?",
+      "learn": [
+        "Consider durability.",
+        "Evaluate material efficiency.",
+        "Recognise finishing purposes."
+      ],
+      "task": "Evaluate a wooden school object from photographs: identify one repair or maintenance opportunity.",
+      "extend": "Produce a paper cutting layout that reduces offcuts."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 4",
+      "title": "National 4 Practical Woodworking",
+      "areas": [
+        "Flat-frame Construction",
+        "Carcase Construction",
+        "Machining and Finishing",
+        "Making a Finished Product — added value"
+      ],
+      "explain": "Develop practical skills, knowledge of materials and safe working with supervision.",
+      "assessment": "Internally assessed units and added-value practical activity; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — National 4 Practical Woodworking",
+        "url": "https://www.sqa.org.uk/sqa/45662.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Practical Woodworking",
+      "areas": [
+        "Flat-frame construction",
+        "Carcase construction",
+        "Machining and finishing",
+        "Practical activity including case study"
+      ],
+      "explain": "Apply accurate marking out, manufacture, assembly and finishing with knowledge of tools and materials.",
+      "assessment": "The question paper was removed from session 2025–26. Current assessment is the practical activity, including a case study; use the current specification.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Practical Woodworking",
+        "url": "https://www.sqa.org.uk/sqa/45662.html"
+      }
+    },
+    {
+      "level": "Progression — different course",
+      "title": "Higher Design and Manufacture",
+      "areas": [
+        "Design",
+        "Materials and manufacturing",
+        "Design evaluation"
+      ],
+      "explain": "A possible related progression where offered, rather than a Higher Woodworking qualification. It adds substantial design and analytical work.",
+      "assessment": "A distinct qualification with its own question paper and assignment requirements. Discuss readiness and school availability.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Design and Manufacture",
+        "url": "https://www.sqa.org.uk/sqa/45645.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Read a working drawing",
+      "explain": "Identify overall and component dimensions before choosing a sequence.",
+      "try": "Highlight the thickness, width and length of one component.",
+      "check": "Units and real dimensions are clear; do not measure a screen image as though it were full size."
+    },
+    {
+      "title": "Plan accurate work",
+      "explain": "Reference surfaces and planned checks support consistent results.",
+      "try": "Write a checking sequence for a fictional frame before assembly.",
+      "check": "Check dimensions, squareness and matching components before irreversible work."
+    },
+    {
+      "title": "Explain a joint",
+      "explain": "A joint choice should suit the product and direction of loading.",
+      "try": "Annotate where two components meet in a supplied drawing.",
+      "check": "State why the selected joint fits the task, not merely its name."
+    },
+    {
+      "title": "Evaluate workmanship",
+      "explain": "Use evidence such as fit, alignment, finish and compliance with dimensions.",
+      "try": "Write a specific evaluation of a teacher-provided sample photograph.",
+      "check": "Separate what is visible from what would need physical measurement."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A frame drawing specifies two rails of 240 mm and two of 180 mm. Is 840 mm timber necessarily enough?",
+      "hint": "Think beyond the sum of the finished parts.",
+      "answer": "The finished lengths total 840 mm, but cutting allowance, defects, joint requirements and stock preparation may require more. Confirm the cutting list and teacher-approved plan before manufacture.",
+      "extend": "Sketch a stock layout including a stated cutting allowance."
+    },
+    {
+      "question": "Why should a component be checked for squareness before final assembly?",
+      "hint": "Consider consequences of an early error.",
+      "answer": "An out-of-square component can distort the assembly, create gaps and prevent correct fitting. Checking before final assembly allows correction at a stage when it may still be practical.",
+      "extend": "Identify two other checks needed before assembly."
+    },
+    {
+      "question": "A polished surface looks attractive. Does this prove a product is well made?",
+      "hint": "Distinguish appearance from function.",
+      "answer": "No. Check dimensions, joint fit, stability, suitability for use and finish quality. A good-looking surface may hide weak joints or inaccurate components.",
+      "extend": "Create a balanced evaluation checklist with measurable criteria."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Forestry and Land Scotland learning",
+      "url": "https://forestryandland.gov.scot/learn",
+      "kind": "Read",
+      "task": "Investigate Scottish timber and explain one connection between forest management and products."
+    },
+    {
+      "title": "Design Museum",
+      "url": "https://designmuseum.org/learning",
+      "kind": "Read",
+      "task": "Examine a product story and identify a material decision."
+    },
+    {
+      "title": "V&A collections and learning",
+      "url": "https://www.vam.ac.uk/learn",
+      "kind": "Read",
+      "task": "Study furniture construction through an object record and infer its intended use."
+    },
+    {
+      "title": "Practical Woodworking assessment guidance",
+      "url": "https://www.sqa.org.uk/sqa/45662.html",
+      "kind": "Watch",
+      "task": "Open the official practical-activity video guidance with your teacher; it explains current assessment."
+    },
+    {
+      "title": "Apprenticeships Scotland",
+      "url": "https://www.apprenticeships.scot/",
+      "kind": "Read",
+      "task": "Compare joinery and manufacturing routes, recording employer and training expectations."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Plan annotation",
+      "steps": [
+        "Import a teacher-provided working drawing.",
+        "Colour-code components and mark dimensions.",
+        "Record a short explanation of the assembly order."
+      ],
+      "evidence": "A plan that communicates understanding before practical work."
+    },
+    {
+      "title": "Craftsmanship record",
+      "steps": [
+        "With permission, photograph only your own school workshop work at safe checkpoints.",
+        "Annotate a measurement or quality check.",
+        "Explain one improvement before the next supervised stage."
+      ],
+      "evidence": "A private process record without classmates or personal information."
+    },
+    {
+      "title": "Material choice board",
+      "steps": [
+        "Collect permitted images of two timber options.",
+        "Compare properties, source and suitability.",
+        "Write a justified recommendation for a brief."
+      ],
+      "evidence": "A sourced design decision, not an unsupervised making task."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Joinery apprenticeship",
+      "linkToLearning": "Measurement and construction accuracy support building work.",
+      "nextStep": "Explore Modern Apprenticeship entry and employer requirements."
+    },
+    {
+      "title": "Furniture maker",
+      "linkToLearning": "Craftsmanship combines material knowledge, design and finish.",
+      "nextStep": "Compare college furniture courses and workshop training."
+    },
+    {
+      "title": "Manufacturing technician",
+      "linkToLearning": "Drawings, quality checks and processes support production.",
+      "nextStep": "Investigate engineering and manufacturing college pathways."
+    },
+    {
+      "title": "Product designer",
+      "linkToLearning": "Understanding manufacture improves realistic design decisions.",
+      "nextStep": "Consider related design qualifications and portfolio requirements."
+    }
+  ],
+  "parentTip": "Discuss a drawing or material choice at home. Practical workshop tasks must remain teacher-directed; do not encourage pupils to recreate tool or machine operations independently.",
+  "vocabulary": [
+    {
+      "en": "Timber",
+      "ar": "خشب"
+    },
+    {
+      "en": "Joint",
+      "ar": "وصلة"
+    },
+    {
+      "en": "Grain",
+      "ar": "ألياف الخشب"
+    },
+    {
+      "en": "Measure",
+      "ar": "قياس"
+    },
+    {
+      "en": "Accuracy",
+      "ar": "دقة"
+    },
+    {
+      "en": "Finish",
+      "ar": "تشطيب"
+    },
+    {
+      "en": "Frame",
+      "ar": "إطار"
+    },
+    {
+      "en": "Safety",
+      "ar": "سلامة"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — National 4 Practical Woodworking",
+      "url": "https://www.sqa.org.uk/sqa/45662.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Practical Woodworking",
+      "url": "https://www.sqa.org.uk/sqa/45662.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Design and Manufacture",
+      "url": "https://www.sqa.org.uk/sqa/45645.html"
+    }
+  ]
+}

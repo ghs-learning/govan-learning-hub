@@ -1,0 +1,278 @@
+{
+  "id": "drama",
+  "name": "Drama",
+  "strapline": "Find your voice. Shape a story.",
+  "intro": "Explore how performance and production choices communicate meaning. Suggested BGE units develop imagination, collaboration and analysis; they are not confirmed school courses. Senior Phase choices include acting and production roles under national requirements. Use fictional scenarios sensitively, respect others’ boundaries and follow teacher guidance on recording, movement, equipment and performance texts.",
+  "bge": [
+    {
+      "title": "Stories from a stimulus",
+      "question": "How can one image become many stories?",
+      "learn": [
+        "Develop dramatic situations.",
+        "Identify purpose and audience.",
+        "Select dramatic conventions."
+      ],
+      "task": "Create a six-moment storyboard from a teacher-approved image, showing a clear change in tension.",
+      "extend": "Explain how changing the order would alter the audience’s understanding."
+    },
+    {
+      "title": "Voice and character",
+      "question": "How does a character reveal intention?",
+      "learn": [
+        "Explore pace, pause and tone.",
+        "Connect movement to status.",
+        "Use motivation."
+      ],
+      "task": "Annotate a short fictional speech with three purposeful vocal decisions.",
+      "extend": "Perform two contrasting interpretations in class and explain what changes."
+    },
+    {
+      "title": "Backstage storytelling",
+      "question": "How do design choices tell a story?",
+      "learn": [
+        "Identify production roles.",
+        "Connect colour and space to meaning.",
+        "Consider practical constraints."
+      ],
+      "task": "Design a paper set and lighting mood board for a short scene, justifying two choices.",
+      "extend": "Explain how a low-budget version could preserve the intended effect."
+    },
+    {
+      "title": "Watching like a theatre-maker",
+      "question": "What makes evaluation useful?",
+      "learn": [
+        "Separate description from analysis.",
+        "Use specific performance evidence.",
+        "Explain audience impact."
+      ],
+      "task": "Watch a permitted extract and record a precise moment, choice and effect.",
+      "extend": "Offer an alternative interpretation supported by the same evidence."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3 / National 4",
+      "title": "Drama",
+      "areas": [
+        "Drama Skills",
+        "Production Skills",
+        "National 4 added-value performance"
+      ],
+      "explain": "Develop and communicate ideas collaboratively through drama and production. National 4 adds a performance task.",
+      "assessment": "Internally assessed units; added value at National 4; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — Drama",
+        "url": "https://www.sqa.org.uk/sqa/45712.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Drama",
+      "areas": [
+        "Drama skills",
+        "Production skills",
+        "Performance and evaluation"
+      ],
+      "explain": "Explore devising, characterisation and production skills, then evaluate how choices communicate meaning.",
+      "assessment": "Question paper and performance under the current specification; available assessment roles have specific requirements.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Drama",
+        "url": "https://www.sqa.org.uk/sqa/45714.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Drama",
+      "areas": [
+        "Drama skills",
+        "Production skills",
+        "Performance",
+        "Theatre study, analysis and evaluation"
+      ],
+      "explain": "Develop more detailed interpretation and analysis of texts and theatre, with practical performance or production skills.",
+      "assessment": "Question paper and performance. Follow the current specification, including revised question-paper guidance.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Drama",
+        "url": "https://www.sqa.org.uk/sqa/46485.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Develop a character",
+      "explain": "Connect intention and relationships to visible or audible choices.",
+      "try": "Annotate a line with what the character wants and how voice communicates it.",
+      "check": "Explain the relationship between the choice and audience interpretation."
+    },
+    {
+      "title": "Build tension",
+      "explain": "Pacing, silence, focus and withheld information shape anticipation.",
+      "try": "Storyboard a scene in which a character notices something others do not.",
+      "check": "State where tension increases and what causes that change."
+    },
+    {
+      "title": "Justify design",
+      "explain": "Production choices should serve meaning and be feasible.",
+      "try": "Select a colour palette and spatial arrangement for a fictional scene.",
+      "check": "Link each choice to atmosphere or relationship rather than taste alone."
+    },
+    {
+      "title": "Evaluate precisely",
+      "explain": "Use a specific moment, theatrical terminology and an explained effect.",
+      "try": "Replace “the acting was good” with a three-part evidence statement.",
+      "check": "Name the choice, locate it and explain its impact on meaning."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A character says “I am delighted” with a long pause, lowered gaze and flat tone. What might the audience infer?",
+      "hint": "Compare spoken text with performance signals.",
+      "answer": "The contrast may suggest insincerity, disappointment or concealed emotion. Support one interpretation with the pause, gaze and tone; do not assume a single response is guaranteed.",
+      "extend": "Suggest a contrasting delivery that makes the delight convincing."
+    },
+    {
+      "question": "A scene feels confusing because actors speak simultaneously throughout. Suggest a purposeful revision.",
+      "hint": "Consider focus and dramatic intention.",
+      "answer": "Create moments of clear vocal focus and use overlap selectively to communicate conflict or urgency. Explain which information the audience must hear and when.",
+      "extend": "Explain when sustained overlapping speech might be an intentional choice."
+    },
+    {
+      "question": "What makes “the blue lighting was effective” an incomplete evaluation?",
+      "hint": "Effective for what purpose, at which moment?",
+      "answer": "It lacks a located example and explanation. For instance, a cold blue wash during the character’s isolation may reinforce distance and loneliness. Support the effect with context.",
+      "extend": "Write an alternative interpretation of the same lighting choice."
+    }
+  ],
+  "resources": [
+    {
+      "title": "National Theatre learning",
+      "url": "https://www.nationaltheatre.org.uk/learn-explore/",
+      "kind": "Watch",
+      "task": "Choose an available theatre-making resource and note one rehearsal or design technique."
+    },
+    {
+      "title": "Royal Shakespeare Company learning",
+      "url": "https://www.rsc.org.uk/learn",
+      "kind": "Read",
+      "task": "Explore a character or text resource and connect language to playable intention."
+    },
+    {
+      "title": "National Theatre of Scotland",
+      "url": "https://www.nationaltheatrescotland.com/",
+      "kind": "Watch",
+      "task": "Explore a production story or available film; identify how Scottish context shapes meaning."
+    },
+    {
+      "title": "Scottish Youth Theatre",
+      "url": "https://scottishyouththeatre.org/",
+      "kind": "Read",
+      "task": "Investigate creative opportunities and identify collaboration skills you could develop."
+    },
+    {
+      "title": "Official past papers",
+      "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm",
+      "kind": "Try",
+      "task": "Attempt a Drama analysis question using precise evidence, then check marking guidance."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Character voice journal",
+      "steps": [
+        "Write a brief interpretation of a fictional character.",
+        "Record a permitted short speech with captions.",
+        "Review one vocal choice and record a revision."
+      ],
+      "evidence": "Two interpretations plus an explanation of purposeful change."
+    },
+    {
+      "title": "Production pitch",
+      "steps": [
+        "Create a digital mood board using permitted images.",
+        "Annotate lighting, set and costume choices.",
+        "Record a pitch linked to the scene’s intended meaning."
+      ],
+      "evidence": "A sourced design proposal with practical considerations."
+    },
+    {
+      "title": "Performance review",
+      "steps": [
+        "Use a permitted extract rather than recording others without consent.",
+        "Mark three timestamps containing clear theatrical choices.",
+        "Write a choice–evidence–effect comment for each."
+      ],
+      "evidence": "Specific analysis that can inform your own work."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Actor or performer",
+      "linkToLearning": "Interpretation, rehearsal and responsiveness support performance.",
+      "nextStep": "Explore college acting, conservatoire and university routes, including audition requirements."
+    },
+    {
+      "title": "Stage technician",
+      "linkToLearning": "Production planning and communication support safe theatre work.",
+      "nextStep": "Investigate technical theatre college training and entry roles."
+    },
+    {
+      "title": "Community arts practitioner",
+      "linkToLearning": "Facilitation and creative collaboration support participation.",
+      "nextStep": "Compare youth arts, community work and applied theatre pathways."
+    },
+    {
+      "title": "Producer or events organiser",
+      "linkToLearning": "Scheduling, teamwork and audience awareness support delivery.",
+      "nextStep": "Explore arts administration, event management and employer experience routes."
+    }
+  ],
+  "parentTip": "Ask what a character wants and which performance choice shows it. A useful response notices a specific moment and its effect; confidence grows through manageable rehearsal and constructive feedback.",
+  "vocabulary": [
+    {
+      "en": "Character",
+      "ar": "شخصية"
+    },
+    {
+      "en": "Stage",
+      "ar": "خشبة المسرح"
+    },
+    {
+      "en": "Voice",
+      "ar": "صوت"
+    },
+    {
+      "en": "Movement",
+      "ar": "حركة"
+    },
+    {
+      "en": "Audience",
+      "ar": "جمهور"
+    },
+    {
+      "en": "Tension",
+      "ar": "توتر"
+    },
+    {
+      "en": "Lighting",
+      "ar": "إضاءة"
+    },
+    {
+      "en": "Rehearsal",
+      "ar": "بروفة"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — Drama",
+      "url": "https://www.sqa.org.uk/sqa/45712.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Drama",
+      "url": "https://www.sqa.org.uk/sqa/45714.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Drama",
+      "url": "https://www.sqa.org.uk/sqa/46485.html"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "business",
+  "name": "Business",
+  "strapline": "Turn an idea into a reasoned decision.",
+  "intro": "Business explores how organisations meet needs, use resources and respond to change. A good decision considers customers, workers, finance and wider impacts, rather than profit alone. BGE enterprise challenges below are suggested. Senior qualifications are Business at National 3 and National 4, then Business Management at National 5 and Higher. School availability and class examples need departmental confirmation.",
+  "bge": [
+    {
+      "title": "An idea for Govan",
+      "question": "What need could an enterprise meet?",
+      "learn": [
+        "Needs and wants",
+        "Customers and stakeholders",
+        "Social enterprise"
+      ],
+      "task": "Design a fictional service that meets a local need. Identify its customer, benefit, required resources and one possible risk.",
+      "extend": "Explain how a social aim could influence a decision even if it reduces profit."
+    },
+    {
+      "title": "Know your customer",
+      "question": "How can research improve a decision?",
+      "learn": [
+        "Primary and secondary research",
+        "Sampling",
+        "Question design"
+      ],
+      "task": "Write four neutral questions for a fictional reusable-bottle business. Explain who you would ask and why. Do not collect personal data.",
+      "extend": "Identify how a small or unrepresentative sample could mislead the business."
+    },
+    {
+      "title": "Money that makes sense",
+      "question": "Can a busy business still lose money?",
+      "learn": [
+        "Revenue and costs",
+        "Profit",
+        "Cash flow"
+      ],
+      "task": "A fictional stall sells 40 items at £3. Costs total £95. Calculate revenue and profit, then explain why profit is not the same as cash in the bank.",
+      "extend": "Add a delayed customer payment and predict the effect on cash availability."
+    },
+    {
+      "title": "People and responsible choices",
+      "question": "What makes an organisation work well?",
+      "learn": [
+        "Roles and teamwork",
+        "Motivation",
+        "Environmental and ethical choices"
+      ],
+      "task": "Compare two fictional suppliers on cost, reliability and packaging. Recommend one using more than one criterion.",
+      "extend": "Explain a disadvantage of your chosen supplier and how the business could manage it."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3/4",
+      "title": "Business",
+      "areas": [
+        "Business in Action",
+        "Influences on Business",
+        "National 4 added value assignment"
+      ],
+      "explain": "Develop understanding of enterprise, organisations and influences. These are Business courses, not National 5 Business Management under another name.",
+      "assessment": "Internal unit assessment; National 4 includes added value. Check exact course requirements with the teacher.",
+      "source": {
+        "title": "Qualifications Scotland: Business",
+        "url": "https://www.sqa.org.uk/sqa/45945.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "Business Management",
+      "areas": [
+        "Understanding business",
+        "Management of marketing",
+        "Management of operations",
+        "Management of people",
+        "Management of finance"
+      ],
+      "explain": "National content covers organisations and functional areas. Case studies and enterprise activities are teaching choices.",
+      "assessment": "Exam and assignment. Assessment was updated from session 2026–27; use current official documents rather than old weightings.",
+      "source": {
+        "title": "Qualifications Scotland: Business Management",
+        "url": "https://www.sqa.org.uk/sqa/45936.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Business Management",
+      "areas": [
+        "Understanding business",
+        "Management of marketing",
+        "Management of operations",
+        "Management of people",
+        "Management of finance"
+      ],
+      "explain": "Analyse relationships among business functions and justify decisions using context. Departmental case studies can be gradually added.",
+      "assessment": "Exam and assignment under updated 2026–27 arrangements. Teachers confirm current requirements.",
+      "source": {
+        "title": "Qualifications Scotland: Business Management",
+        "url": "https://www.sqa.org.uk/sqa/45936.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Apply to the case",
+      "explain": "A general point becomes useful when linked to the organisation.",
+      "try": "Explain how late deliveries could affect a café specifically.",
+      "check": "Have you connected the delay to stock, service and customer satisfaction?"
+    },
+    {
+      "title": "Calculate and interpret",
+      "explain": "Numbers need labels and meaning.",
+      "try": "Calculate profit from sales revenue minus total costs.",
+      "check": "State pounds, show working and explain whether the result is a profit or loss."
+    },
+    {
+      "title": "Analyse a chain",
+      "explain": "Explain how an action produces an outcome.",
+      "try": "Link training to fewer errors and improved customer service.",
+      "check": "Use “because” and “therefore”; avoid just listing advantages."
+    },
+    {
+      "title": "Make a balanced recommendation",
+      "explain": "A decision has benefits, costs and uncertainty.",
+      "try": "Recommend a supplier using price and reliability evidence.",
+      "check": "Acknowledge a drawback and explain why your preferred factor matters more."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A fictional enterprise sells 120 cards at £2.50. Total costs are £220. Calculate revenue and profit.",
+      "hint": "Revenue is price × quantity; profit subtracts costs.",
+      "answer": "Revenue = £300. Profit = £80. £300 is not profit because the business must cover £220 of costs.",
+      "extend": "If sales fall to 80 cards while costs stay £220, the business makes a £20 loss."
+    },
+    {
+      "question": "A survey asks, “Would you buy our brilliant, affordable lunch?” Identify a weakness and improve it.",
+      "hint": "Look for language that pushes people towards an answer.",
+      "answer": "“Brilliant” and “affordable” are leading descriptions. A more neutral question is “How likely are you to buy this lunch at £4?” with balanced response options.",
+      "extend": "Explain why surveying only friends could still limit the findings."
+    },
+    {
+      "question": "Supplier A costs less but sometimes delivers late. Supplier B costs more and is reliable. Recommend one for a café with little storage.",
+      "hint": "Consider the consequence of having no stock available.",
+      "answer": "B may be preferable because reliable deliveries reduce the risk of missing ingredients and lost sales when storage is limited. The higher price could reduce margin, so the café should compare that cost with disruption. A justified A recommendation is possible with a credible backup plan.",
+      "extend": "Identify one piece of information needed before a final decision."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Business Gateway resource library",
+      "url": "https://www.bgateway.com/resources",
+      "kind": "Read",
+      "task": "Choose a market-research or business-planning guide and apply one idea to your fictional enterprise."
+    },
+    {
+      "title": "Bank of England education",
+      "url": "https://www.bankofengland.co.uk/education/education-resources",
+      "kind": "Watch",
+      "task": "Explore an explanation of inflation and describe one possible effect on a small business."
+    },
+    {
+      "title": "Young Enterprise Scotland",
+      "url": "https://www.young-enterprise.org.uk/young-enterprise-scotland",
+      "kind": "Read",
+      "task": "Explore an enterprise programme and identify teamwork or problem-solving skills it develops."
+    },
+    {
+      "title": "Office for National Statistics",
+      "url": "https://www.ons.gov.uk/",
+      "kind": "Try",
+      "task": "Find a business-related chart. Record its date, units, trend and one limitation."
+    },
+    {
+      "title": "Official Business Management resources",
+      "url": "https://www.sqa.org.uk/sqa/45936.html",
+      "kind": "Try",
+      "task": "Choose a current case-study question and practise linking every point to the case."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "A working financial model",
+      "steps": [
+        "Create a spreadsheet for a fictional product.",
+        "Use formulas for revenue, cost and profit.",
+        "Change the sales quantity and explain what changes."
+      ],
+      "evidence": "A labelled spreadsheet with formulas and a short interpretation."
+    },
+    {
+      "title": "A two-minute pitch",
+      "steps": [
+        "Define a customer problem and your proposed benefit.",
+        "Create three slides with evidence, costs and risks.",
+        "Record a pitch and revise a vague claim."
+      ],
+      "evidence": "A concise pitch with a realistic limitation."
+    },
+    {
+      "title": "Research without collecting identities",
+      "steps": [
+        "Create a mock survey using sample responses.",
+        "Chart the results and label sample size.",
+        "Explain a sampling limitation in a voice note."
+      ],
+      "evidence": "An ethical research example using invented data only."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Business administration apprenticeships",
+      "linkToLearning": "Organisation and communication support every business function.",
+      "nextStep": "Explore local apprenticeship opportunities and required qualifications."
+    },
+    {
+      "title": "Marketing and creative enterprise",
+      "linkToLearning": "Research and persuasive communication help reach customers.",
+      "nextStep": "Compare college marketing courses and creative business routes."
+    },
+    {
+      "title": "Accounting and finance",
+      "linkToLearning": "Accurate calculations and interpretation support decisions.",
+      "nextStep": "Investigate accounting technician study, college and university pathways."
+    },
+    {
+      "title": "University and entrepreneurship",
+      "linkToLearning": "Business knowledge can combine with another subject or a social aim.",
+      "nextStep": "Read business degree information and compare it with a practical college route."
+    }
+  ],
+  "parentTip": "Discuss an everyday business decision such as packaging, opening hours or a price change. Ask who benefits, who might lose out and what evidence would help. Use fictional budgets rather than private family financial details.",
+  "vocabulary": [
+    {
+      "en": "business",
+      "ar": "أعمال تجارية"
+    },
+    {
+      "en": "customer",
+      "ar": "عميل"
+    },
+    {
+      "en": "cost",
+      "ar": "تكلفة"
+    },
+    {
+      "en": "profit",
+      "ar": "ربح"
+    },
+    {
+      "en": "revenue",
+      "ar": "إيرادات"
+    },
+    {
+      "en": "market",
+      "ar": "سوق"
+    },
+    {
+      "en": "employee",
+      "ar": "موظف"
+    },
+    {
+      "en": "decision",
+      "ar": "قرار"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: Business",
+      "url": "https://www.sqa.org.uk/sqa/45945.html"
+    },
+    {
+      "title": "Qualifications Scotland: Business Management",
+      "url": "https://www.sqa.org.uk/sqa/45936.html"
+    },
+    {
+      "title": "Qualifications Scotland: Business Management",
+      "url": "https://www.sqa.org.uk/sqa/45936.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}

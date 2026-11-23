@@ -1,0 +1,278 @@
+{
+  "id": "music",
+  "name": "Music",
+  "strapline": "Listen closely. Create boldly.",
+  "intro": "Develop your musical voice through performing, composing and listening. Suggested BGE experiences are flexible ideas for departmental review. Music and Music Technology are different qualifications. Practice examples here support learning and must not be presented as completed assessed compositions. Respect copyright, recording consent and comfortable listening levels; follow school guidance for equipment and practical sessions.",
+  "bge": [
+    {
+      "title": "Rhythm in everyday life",
+      "question": "How can a pattern develop?",
+      "learn": [
+        "Keep a steady pulse.",
+        "Recognise rhythmic patterns.",
+        "Explore repetition and contrast."
+      ],
+      "task": "Create a written eight-bar rhythm using a teacher-approved notation system, showing repetition and one change.",
+      "extend": "Explain how syncopation can challenge the expected beat."
+    },
+    {
+      "title": "Melody and mood",
+      "question": "Why do melodies feel different?",
+      "learn": [
+        "Recognise pitch contour.",
+        "Explore major and minor sounds.",
+        "Use musical phrasing."
+      ],
+      "task": "Sketch the contour of a supplied melody and identify a phrase ending.",
+      "extend": "Compare two interpretations and explain one expressive difference."
+    },
+    {
+      "title": "Music and identity",
+      "question": "How does music connect communities?",
+      "learn": [
+        "Explore Scottish and global traditions.",
+        "Recognise instruments and timbres.",
+        "Use respectful musical vocabulary."
+      ],
+      "task": "Compare two teacher-selected recordings by instrumentation, rhythm and context, avoiding stereotypes.",
+      "extend": "Find how a contemporary musician adapts a traditional influence."
+    },
+    {
+      "title": "Compose for a scene",
+      "question": "How does music guide a listener?",
+      "learn": [
+        "Connect musical choices to purpose.",
+        "Develop motifs.",
+        "Structure contrasting sections."
+      ],
+      "task": "Plan a short soundtrack for a fictional scene, identifying tempo, texture and intended effect.",
+      "extend": "Explain how silence could be more effective than adding another sound."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3 / National 4",
+      "title": "Music",
+      "areas": [
+        "Performing Skills",
+        "Composing Skills",
+        "Understanding Music",
+        "National 4 added-value performance"
+      ],
+      "explain": "Build practical performance, musical creativity and listening knowledge. National 4 adds a performance task.",
+      "assessment": "Internally assessed units and National 4 added value; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — Music",
+        "url": "https://www.sqa.org.uk/sqa/45960.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Music",
+      "areas": [
+        "Performing",
+        "Composing",
+        "Understanding music"
+      ],
+      "explain": "Develop performance on two instruments, or one instrument and voice, alongside composing and listening skills within national requirements.",
+      "assessment": "Performance, composing assignment and question paper. Teachers confirm repertoire, level and assessment conditions.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Music",
+        "url": "https://www.sqa.org.uk/sqa/45960.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Music",
+      "areas": [
+        "Performing",
+        "Composing",
+        "Understanding music"
+      ],
+      "explain": "Increase musical fluency, stylistic understanding and critical listening. Compose and justify choices with more developed musical control.",
+      "assessment": "Performance, composing assignment and question paper under the current specification.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Music",
+        "url": "https://www.sqa.org.uk/sqa/47895.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Practise deliberately",
+      "explain": "Choose a small challenge and use a strategy rather than repeating an entire piece unchanged.",
+      "try": "Plan a teacher-agreed practice focus such as one rhythmic transition.",
+      "check": "Can you explain what improved and identify the next precise step?"
+    },
+    {
+      "title": "Listen with evidence",
+      "explain": "Support a concept with an audible feature.",
+      "try": "Identify an ostinato in a recording and describe its repeated pattern.",
+      "check": "Distinguish a recurring pattern from merely hearing the same instrument."
+    },
+    {
+      "title": "Develop a motif",
+      "explain": "Variation changes a musical idea while retaining a recognisable relationship.",
+      "try": "Propose a rhythmic or pitch variation of a short original motif.",
+      "check": "Explain what stayed recognisable and what changed."
+    },
+    {
+      "title": "Read notation in context",
+      "explain": "Connect symbols to sound, timing and expression.",
+      "try": "Annotate a teacher-provided phrase with pulse and dynamics.",
+      "check": "Check whether the notation communicates the intended performance consistently."
+    }
+  ],
+  "practice": [
+    {
+      "question": "What is the difference between tempo and dynamics? Give a musical example.",
+      "hint": "One concerns speed; the other concerns loudness.",
+      "answer": "Tempo describes speed, such as a faster pulse. Dynamics describe loudness, such as a crescendo. A passage can become louder without becoming faster.",
+      "extend": "Explain how both could change independently during a dramatic scene."
+    },
+    {
+      "question": "A short bass pattern repeats beneath changing melodies. Which concept might describe it, and what evidence supports your answer?",
+      "hint": "Listen for a persistent repeated pattern.",
+      "answer": "An ostinato is a repeated musical pattern. Identify the recurring rhythm or pitches in the bass; the instrument alone is not enough evidence.",
+      "extend": "Explain how changing harmony above the pattern could affect the music."
+    },
+    {
+      "question": "Your composition has four unrelated ideas but no clear shape. Suggest a purposeful improvement.",
+      "hint": "Consider repetition, contrast and return.",
+      "answer": "Develop one motif, contrast it with another section and consider a return such as ABA. This gives the listener relationships to recognise; a structure should serve the intended effect.",
+      "extend": "Describe one variation that could make the returning A section different."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Ableton Learning Music",
+      "url": "https://learningmusic.ableton.com/",
+      "kind": "Try",
+      "task": "Explore beat, melody or structure in the browser. Explain a choice before changing it."
+    },
+    {
+      "title": "BBC Ten Pieces",
+      "url": "https://www.bbc.co.uk/teach/ten-pieces",
+      "kind": "Watch",
+      "task": "Choose an orchestral work and identify two audible features. This is a music resource, not Bitesize."
+    },
+    {
+      "title": "Royal Scottish National Orchestra",
+      "url": "https://www.rsno.org.uk/",
+      "kind": "Listen",
+      "task": "Explore available learning or performance resources and compare orchestral timbres."
+    },
+    {
+      "title": "Scottish Chamber Orchestra",
+      "url": "https://www.sco.org.uk/",
+      "kind": "Watch",
+      "task": "Find an available introduction to an instrument or work and connect it to listening vocabulary."
+    },
+    {
+      "title": "Official course and listening guidance",
+      "url": "https://www.sqa.org.uk/sqa/45960.html",
+      "kind": "Read",
+      "task": "Follow your level to current assessment information, past papers and music guidance."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Practice reflection",
+      "steps": [
+        "Record only your own teacher-agreed performance extract.",
+        "Identify a timestamp showing one strength and one challenge.",
+        "Write a precise next practice step."
+      ],
+      "evidence": "A focused reflection; do not share classmates’ recordings without consent."
+    },
+    {
+      "title": "Listening map",
+      "steps": [
+        "Listen to a permitted recording.",
+        "Create a timeline of sections, textures and instrumental entries.",
+        "Support three annotations with timestamps."
+      ],
+      "evidence": "A map showing musical evidence rather than only mood words."
+    },
+    {
+      "title": "Composition sketchbook",
+      "steps": [
+        "Create a short original idea in approved software or notation.",
+        "Save a version and explain a musical decision.",
+        "Revise one feature after teacher feedback."
+      ],
+      "evidence": "A documented learning process separate from assessed coursework."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Performer or music educator",
+      "linkToLearning": "Practice, interpretation and communication support musical work.",
+      "nextStep": "Compare college, conservatoire and university entry or audition requirements."
+    },
+    {
+      "title": "Sound engineer",
+      "linkToLearning": "Listening and understanding musical structure support technical audio work.",
+      "nextStep": "Explore distinct sound production and music technology college routes."
+    },
+    {
+      "title": "Arts administrator",
+      "linkToLearning": "Organisation and audience knowledge support events and ensembles.",
+      "nextStep": "Investigate creative industries courses, entry roles and work experience."
+    },
+    {
+      "title": "Composer or media musician",
+      "linkToLearning": "Developing musical ideas serves film, games and performance.",
+      "nextStep": "Build a portfolio and explore composition or commercial music routes."
+    }
+  ],
+  "parentTip": "Ask your young person to play or explain one small musical idea and describe their next step. Encourage focused, teacher-agreed practice rather than judging progress by volume or speed.",
+  "vocabulary": [
+    {
+      "en": "Rhythm",
+      "ar": "إيقاع"
+    },
+    {
+      "en": "Melody",
+      "ar": "لحن"
+    },
+    {
+      "en": "Tempo",
+      "ar": "سرعة الإيقاع"
+    },
+    {
+      "en": "Dynamics",
+      "ar": "شدة الصوت"
+    },
+    {
+      "en": "Texture",
+      "ar": "نسيج موسيقي"
+    },
+    {
+      "en": "Harmony",
+      "ar": "انسجام"
+    },
+    {
+      "en": "Instrument",
+      "ar": "آلة موسيقية"
+    },
+    {
+      "en": "Composition",
+      "ar": "تأليف موسيقي"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — Music",
+      "url": "https://www.sqa.org.uk/sqa/45960.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Music",
+      "url": "https://www.sqa.org.uk/sqa/45960.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Music",
+      "url": "https://www.sqa.org.uk/sqa/47895.html"
+    }
+  ]
+}

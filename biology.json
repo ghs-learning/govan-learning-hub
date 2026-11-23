@@ -1,0 +1,302 @@
+{
+  "id": "biology",
+  "name": "Biology",
+  "strapline": "Explore life, from DNA to ecosystems.",
+  "intro": "Investigate how living systems work and how evidence helps us protect them. BGE units are suggestions for S1–S3, not confirmed Govan courses. Higher Biology and Higher Human Biology are different qualifications. Use simulations and supplied datasets independently; laboratory and fieldwork activities require teacher instructions and school procedures.",
+  "bge": [
+    {
+      "title": "Cells: life’s building blocks",
+      "question": "What do living things have in common?",
+      "learn": [
+        "Identify cell structures.",
+        "Connect structures to functions.",
+        "Compare plant and animal cells."
+      ],
+      "task": "Annotate two supplied micrographs and explain how three visible structures help the cell function.",
+      "extend": "Explain why a diagram can show structures that a particular micrograph cannot resolve."
+    },
+    {
+      "title": "Body systems",
+      "question": "How do systems work together?",
+      "learn": [
+        "Describe digestion and transport.",
+        "Link organs to functions.",
+        "Interpret simple biological data."
+      ],
+      "task": "Map the journey of oxygen from air to a respiring muscle cell.",
+      "extend": "Explain why breathing and cellular respiration are different processes."
+    },
+    {
+      "title": "Govan biodiversity",
+      "question": "How could we investigate an ecosystem?",
+      "learn": [
+        "Recognise habitats and communities.",
+        "Interpret food webs.",
+        "Plan representative sampling."
+      ],
+      "task": "Plan a school-approved biodiversity survey on paper, identifying sampling locations and limitations.",
+      "extend": "Explain how repeated sampling could strengthen a comparison."
+    },
+    {
+      "title": "Genes and choices",
+      "question": "Why are individuals different?",
+      "learn": [
+        "Describe inheritance.",
+        "Distinguish genes and environment.",
+        "Evaluate biological claims."
+      ],
+      "task": "Compare two fictional claims about inherited characteristics and identify missing evidence.",
+      "extend": "Discuss why a genetic association does not necessarily establish a simple cause."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3 / National 4",
+      "title": "Biology",
+      "areas": [
+        "Cell Biology",
+        "Multicellular Organisms",
+        "Life on Earth"
+      ],
+      "explain": "Develop biological knowledge and practical enquiry. National 4 includes a Biology assignment as added value.",
+      "assessment": "Internally assessed units; added value at National 4; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — Biology",
+        "url": "https://www.sqa.org.uk/sqa/47427.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Biology",
+      "areas": [
+        "Cell Biology",
+        "Multicellular Organisms",
+        "Life on Earth"
+      ],
+      "explain": "Study cellular processes, reproduction, inheritance, transport, ecosystems and human effects through evidence.",
+      "assessment": "Question paper and assignment under the current specification.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Biology",
+        "url": "https://www.sqa.org.uk/sqa/47427.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Biology",
+      "areas": [
+        "DNA and the Genome",
+        "Metabolism and Survival",
+        "Sustainability and Interdependence"
+      ],
+      "explain": "Connect molecular processes with adaptation, populations and food production. These are the Higher Biology headings.",
+      "assessment": "Question paper and assignment. Follow teacher conditions for assessed investigations.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Biology",
+        "url": "https://www.sqa.org.uk/sqa/47912.html"
+      }
+    },
+    {
+      "level": "Higher alternative",
+      "title": "Higher Human Biology",
+      "areas": [
+        "Human Cells",
+        "Physiology and Health",
+        "Neurobiology and Immunology"
+      ],
+      "explain": "A separate Higher route with a human focus; it is not an extra unit of Higher Biology. Check whether the school offers this route.",
+      "assessment": "Separate Human Biology question paper and assignment requirements.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Human Biology",
+        "url": "https://www.sqa.org.uk/sqa/47915.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Use biological terminology",
+      "explain": "Name the structure or process and link it to a precise function.",
+      "try": "Explain why an enzyme has an optimum temperature.",
+      "check": "Include increased activity up to an optimum and changes to the active site above it."
+    },
+    {
+      "title": "Plan sampling",
+      "explain": "Representative sampling reduces bias when comparing habitats.",
+      "try": "Design a random quadrat sampling plan for two areas.",
+      "check": "Specify equal sampling effort, random locations, repeats and responsible access."
+    },
+    {
+      "title": "Interpret variation",
+      "explain": "Variation within a group matters when comparing averages.",
+      "try": "Compare two means alongside their ranges.",
+      "check": "Avoid claiming certainty from overlapping small samples alone."
+    },
+    {
+      "title": "Explain a food web",
+      "explain": "Arrows show energy transfer from food to consumer.",
+      "try": "Trace two energy pathways from a producer.",
+      "check": "A predator may be affected indirectly when another population changes."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A population rises from 80 to 100. Calculate percentage increase.",
+      "hint": "Use the original value as denominator.",
+      "answer": "Increase = 20. Percentage increase = 20/80 × 100 = 25%. Dividing by 100 would describe a different proportion.",
+      "extend": "Explain why percentage change helps compare populations of different starting sizes."
+    },
+    {
+      "question": "Why is an enzyme less effective well above its optimum temperature?",
+      "hint": "Think about protein shape and substrate binding.",
+      "answer": "High temperature can denature the enzyme, changing its active-site shape so the substrate no longer fits effectively. It is not simply that particles stop moving.",
+      "extend": "Contrast this with the effect of a low temperature."
+    },
+    {
+      "question": "A field has fewer plant species after herbicide use. Does this prove the herbicide caused the change?",
+      "hint": "Consider comparison sites and other changing factors.",
+      "answer": "It is consistent with an effect but does not prove causation alone. Compare untreated areas, before-and-after data, sampling effort and other changes such as weather or grazing.",
+      "extend": "Design a stronger, ethical observational comparison."
+    }
+  ],
+  "resources": [
+    {
+      "title": "YourGenome",
+      "url": "https://www.yourgenome.org/",
+      "kind": "Read",
+      "task": "Choose a DNA explainer and turn it into a labelled sequence of events."
+    },
+    {
+      "title": "HHMI BioInteractive",
+      "url": "https://www.biointeractive.org/",
+      "kind": "Watch",
+      "task": "Use a teacher-selected animation. Pause and explain what its simplified model leaves out."
+    },
+    {
+      "title": "NatureScot",
+      "url": "https://www.nature.scot/",
+      "kind": "Read",
+      "task": "Investigate one Scottish habitat and connect a conservation action to ecological evidence."
+    },
+    {
+      "title": "Royal Society of Biology",
+      "url": "https://www.rsb.org.uk/",
+      "kind": "Read",
+      "task": "Find a biology careers or science resource and record one route you had not considered."
+    },
+    {
+      "title": "Official past papers",
+      "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm",
+      "kind": "Try",
+      "task": "Attempt a data-handling question and use its marking instructions to improve precision."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Cell tour",
+      "steps": [
+        "Annotate a supplied cell image.",
+        "Add a short audio explanation for four structures.",
+        "Include text captions and distinguish evidence from diagram conventions."
+      ],
+      "evidence": "An accessible narrated cell guide."
+    },
+    {
+      "title": "Biodiversity data",
+      "steps": [
+        "Enter a teacher-provided species table.",
+        "Create a chart with a meaningful scale.",
+        "Explain a pattern and a sampling limitation."
+      ],
+      "evidence": "A chart and a cautious evidence-based conclusion."
+    },
+    {
+      "title": "Process animation",
+      "steps": [
+        "Create six slides showing a biological process.",
+        "Use arrows and consistent labels.",
+        "Record narration, then check scientific terms."
+      ],
+      "evidence": "A sequence explaining cause and effect."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Biomedical scientist",
+      "linkToLearning": "Cell processes and reliable laboratory work support healthcare testing.",
+      "nextStep": "Explore accredited biomedical science degrees and laboratory support routes."
+    },
+    {
+      "title": "Conservation ranger",
+      "linkToLearning": "Ecology and sampling help manage habitats responsibly.",
+      "nextStep": "Compare college countryside management with university ecology pathways."
+    },
+    {
+      "title": "Food laboratory technician",
+      "linkToLearning": "Microbiology and quality-control evidence support food production.",
+      "nextStep": "Explore applied science college courses and laboratory apprenticeships."
+    },
+    {
+      "title": "Nursing and allied health",
+      "linkToLearning": "Understanding human systems supports further professional study.",
+      "nextStep": "Check current entry requirements for distinct regulated healthcare professions."
+    }
+  ],
+  "parentTip": "Invite a clear explanation of one living process. Ask “What evidence supports that?” rather than expecting every scientific word to be remembered immediately.",
+  "vocabulary": [
+    {
+      "en": "Cell",
+      "ar": "خلية"
+    },
+    {
+      "en": "Gene",
+      "ar": "جين"
+    },
+    {
+      "en": "Enzyme",
+      "ar": "إنزيم"
+    },
+    {
+      "en": "Habitat",
+      "ar": "موطن"
+    },
+    {
+      "en": "Species",
+      "ar": "نوع"
+    },
+    {
+      "en": "Inheritance",
+      "ar": "وراثة"
+    },
+    {
+      "en": "Respiration",
+      "ar": "تنفس خلوي"
+    },
+    {
+      "en": "Biodiversity",
+      "ar": "تنوع حيوي"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — Biology",
+      "url": "https://www.sqa.org.uk/sqa/47427.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Biology",
+      "url": "https://www.sqa.org.uk/sqa/47427.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Biology",
+      "url": "https://www.sqa.org.uk/sqa/47912.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Human Biology",
+      "url": "https://www.sqa.org.uk/sqa/47915.html"
+    }
+  ],
+  "visual": {
+    "title": "Follow energy through a food chain",
+    "question": "Grass → rabbit → fox. What do the arrows represent? Predict a possible effect of a fall in rabbit numbers, and explain why it is a prediction rather than a certainty.",
+    "answer": "Arrows show the direction of energy transfer from food to consumer. Fewer rabbits could reduce food for foxes and grazing on grass. Other foods, predators and conditions also affect populations.",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 360\" role=\"img\" aria-label=\"Follow energy through a food chain\"><rect width=\"520\" height=\"360\" fill=\"#f2f7f8\"/><g font-family=\"Arial\" fill=\"#19354a\"><rect x=\"25\" y=\"110\" width=\"125\" height=\"90\" rx=\"14\" fill=\"#cde4bf\"/><rect x=\"195\" y=\"110\" width=\"125\" height=\"90\" rx=\"14\" fill=\"#f5dfb1\"/><rect x=\"365\" y=\"110\" width=\"125\" height=\"90\" rx=\"14\" fill=\"#f2c1ad\"/><g font-size=\"24\"><text x=\"58\" y=\"164\">Grass</text><text x=\"220\" y=\"164\">Rabbit</text><text x=\"409\" y=\"164\">Fox</text><text x=\"162\" y=\"164\">→</text><text x=\"333\" y=\"164\">→</text></g><text x=\"70\" y=\"260\" font-size=\"20\">Direction of energy transfer</text></g></svg>"
+  }
+}

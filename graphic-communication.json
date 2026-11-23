@@ -1,0 +1,281 @@
+{
+  "id": "graphic-communication",
+  "name": "Graphic Communication",
+  "strapline": "Make ideas clear. Make design matter.",
+  "intro": "Communicate technical information accurately and visual messages convincingly. Suggested BGE projects explore drawing, digital design and responsible communication. They are not confirmed school units. Senior Phase combines technical accuracy with visual impact; software is a tool, not the learning goal. Original practice tasks must not be submitted as live assessed assignments.",
+  "bge": [
+    {
+      "title": "Draw it so someone can make it",
+      "question": "Why are several views useful?",
+      "learn": [
+        "Distinguish 2D and 3D views.",
+        "Use line conventions.",
+        "Apply scale."
+      ],
+      "task": "Sketch a simple storage block from the front, top and side. Align corresponding features.",
+      "extend": "Explain which hidden detail cannot be understood from a single photograph."
+    },
+    {
+      "title": "Messages that work",
+      "question": "How does layout guide a reader?",
+      "learn": [
+        "Recognise hierarchy.",
+        "Use contrast and alignment.",
+        "Design for accessibility."
+      ],
+      "task": "Create a school-event poster using three levels of information and explain the reading order.",
+      "extend": "Test whether the message remains understandable in greyscale."
+    },
+    {
+      "title": "From sketch to model",
+      "question": "How can a model improve an idea?",
+      "learn": [
+        "Develop pictorial sketches.",
+        "Recognise CAD modelling features.",
+        "Evaluate dimensions."
+      ],
+      "task": "Plan a simple phone stand on paper or approved CAD software, recording dimensions and assumptions.",
+      "extend": "Explain a modelling limitation such as material flexibility."
+    },
+    {
+      "title": "Data with integrity",
+      "question": "Can a graphic mislead?",
+      "learn": [
+        "Choose suitable charts.",
+        "Label data honestly.",
+        "Identify misleading scales."
+      ],
+      "task": "Redesign a distorted bar chart with a zero baseline and clear source information.",
+      "extend": "Compare the effect of changing scale with changing the underlying data."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 4",
+      "title": "National 4 Graphic Communication",
+      "areas": [
+        "2D Graphic Communication",
+        "3D and Pictorial Graphic Communication",
+        "Added-value assignment"
+      ],
+      "explain": "Develop manual and digital communication skills through familiar and straightforward tasks.",
+      "assessment": "Internally assessed units and added-value assignment; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — National 4 Graphic Communication",
+        "url": "https://www.sqa.org.uk/sqa/45907.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Graphic Communication",
+      "areas": [
+        "2D Graphic Communication",
+        "3D and Pictorial Graphic Communication"
+      ],
+      "explain": "Apply drawing conventions, CAD, colour, layout and presentation to communicate to a defined audience.",
+      "assessment": "Question paper and assignment. Teacher supervision and national conditions apply.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Graphic Communication",
+        "url": "https://www.sqa.org.uk/sqa/45653.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Graphic Communication",
+      "areas": [
+        "2D Graphic Communication",
+        "3D and Pictorial Graphic Communication"
+      ],
+      "explain": "Handle more complex technical graphics and promotional communication, justifying design decisions.",
+      "assessment": "Question paper and assignment; use the current official task and specification.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Graphic Communication",
+        "url": "https://www.sqa.org.uk/sqa/47929.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Orthographic accuracy",
+      "explain": "Aligned views describe the same object from different directions.",
+      "try": "Check that a hole has matching position in adjacent views.",
+      "check": "Corresponding widths, heights and depths agree; hidden detail uses the appropriate convention."
+    },
+    {
+      "title": "Scale and dimensions",
+      "explain": "A drawing scale changes representation, not the real object.",
+      "try": "Draw a 120 mm edge at 1:2.",
+      "check": "Its drawn length is 60 mm; its dimension label still gives the real 120 mm."
+    },
+    {
+      "title": "Visual hierarchy",
+      "explain": "Size, placement, contrast and spacing guide attention.",
+      "try": "Identify the first three things a reader notices in a poster.",
+      "check": "The order should match the communication purpose and remain legible."
+    },
+    {
+      "title": "Evaluate a CAD model",
+      "explain": "A successful model satisfies the brief and supports later communication.",
+      "try": "Review feature order and dimensions in a supplied model.",
+      "check": "Explain how an edit could affect dependent features rather than merely naming commands."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A product is 80 mm wide. How wide should it appear at scale 2:1, and what dimension should be written?",
+      "hint": "Separate drawing size from actual size.",
+      "answer": "Draw it 160 mm wide, but label the real width as 80 mm. A dimension communicates the object, not the enlarged paper measurement.",
+      "extend": "Calculate its drawn width at 1:4."
+    },
+    {
+      "question": "A poster uses pale yellow text on white, four decorative fonts and equal-sized headings. Suggest two justified improvements.",
+      "hint": "Connect decisions to readability and hierarchy.",
+      "answer": "Increase text-background contrast and establish a limited, consistent type hierarchy. This improves legibility and helps the reader find the main message before details.",
+      "extend": "Test the redesign on an iPad at normal viewing size."
+    },
+    {
+      "question": "Why can a photorealistic rendered image fail to communicate manufacturing information?",
+      "hint": "Consider what a maker needs.",
+      "answer": "A render can show appearance but may omit exact dimensions, hidden details, tolerances and technical conventions. Add appropriate technical drawings rather than assuming realism guarantees accuracy.",
+      "extend": "Identify a case where a render is still the most useful communication."
+    }
+  ],
+  "resources": [
+    {
+      "title": "V&A learning",
+      "url": "https://www.vam.ac.uk/learn",
+      "kind": "Read",
+      "task": "Choose a designed object and explain how form communicates its purpose."
+    },
+    {
+      "title": "Design Museum learning",
+      "url": "https://designmuseum.org/learning",
+      "kind": "Read",
+      "task": "Study a design story and identify user, need, constraint and response."
+    },
+    {
+      "title": "Autodesk education",
+      "url": "https://www.autodesk.com/education/educators",
+      "kind": "Watch",
+      "task": "Explore a teacher-selected CAD tutorial. School access and software arrangements may be required."
+    },
+    {
+      "title": "Official past papers",
+      "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm",
+      "kind": "Try",
+      "task": "Choose a drawing interpretation question and check dimensions carefully."
+    },
+    {
+      "title": "Understanding Standards",
+      "url": "https://www.understandingstandards.org.uk/",
+      "kind": "Read",
+      "task": "Review published Graphic Communication examples with your teacher and discuss evidence of quality."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Design iteration",
+      "steps": [
+        "Photograph your own paper sketch.",
+        "Annotate three changes linked to the brief.",
+        "Save a second version with a short comparison."
+      ],
+      "evidence": "Two versions showing purposeful improvement."
+    },
+    {
+      "title": "Technical explainer",
+      "steps": [
+        "Import a permitted object drawing.",
+        "Highlight aligned features across three views.",
+        "Record a captioned explanation of one hidden detail."
+      ],
+      "evidence": "An annotated interpretation, with the original source acknowledged."
+    },
+    {
+      "title": "Accessibility audit",
+      "steps": [
+        "Open your poster on an iPad.",
+        "Check text size, contrast and reading order.",
+        "Ask a peer to locate key information and record revisions."
+      ],
+      "evidence": "A before-and-after layout with evidence of testing."
+    }
+  ],
+  "careers": [
+    {
+      "title": "CAD technician",
+      "linkToLearning": "Accurate views and modelling support manufacturing and construction.",
+      "nextStep": "Explore college CAD and engineering technician routes."
+    },
+    {
+      "title": "Architectural technologist",
+      "linkToLearning": "Technical communication links design intent to building information.",
+      "nextStep": "Compare college and university architectural technology pathways."
+    },
+    {
+      "title": "Graphic designer",
+      "linkToLearning": "Hierarchy, typography and audience awareness create visual messages.",
+      "nextStep": "Build a process portfolio and investigate college design courses."
+    },
+    {
+      "title": "Product designer",
+      "linkToLearning": "Models and drawings communicate functional ideas.",
+      "nextStep": "Compare design apprenticeships where available and university product design entry requirements."
+    }
+  ],
+  "parentTip": "Ask your young person to explain who a graphic is for and what the audience must understand. Discuss improvements to their own designs without doing the design for them.",
+  "vocabulary": [
+    {
+      "en": "Drawing",
+      "ar": "رسم"
+    },
+    {
+      "en": "Scale",
+      "ar": "مقياس"
+    },
+    {
+      "en": "Dimension",
+      "ar": "بُعد"
+    },
+    {
+      "en": "View",
+      "ar": "مسقط"
+    },
+    {
+      "en": "Model",
+      "ar": "نموذج"
+    },
+    {
+      "en": "Contrast",
+      "ar": "تباين"
+    },
+    {
+      "en": "Layout",
+      "ar": "تخطيط"
+    },
+    {
+      "en": "Design",
+      "ar": "تصميم"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — National 4 Graphic Communication",
+      "url": "https://www.sqa.org.uk/sqa/45907.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Graphic Communication",
+      "url": "https://www.sqa.org.uk/sqa/45653.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Graphic Communication",
+      "url": "https://www.sqa.org.uk/sqa/47929.html"
+    }
+  ],
+  "visual": {
+    "title": "One object, two views",
+    "question": "A rectangular block is 40 mm wide, 30 mm high and 20 mm deep. Which dimensions are shown in the front elevation and in the plan?",
+    "answer": "Front elevation: width 40 mm and height 30 mm. Plan: width 40 mm and depth 20 mm. Orthographic views describe the same object from different directions.",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 360\" role=\"img\" aria-label=\"One object, two views\"><rect width=\"520\" height=\"360\" fill=\"#f2f7f8\"/><g stroke=\"#286f86\" stroke-width=\"3\" fill=\"#d9edf1\"><rect x=\"65\" y=\"60\" width=\"200\" height=\"100\"/><rect x=\"65\" y=\"190\" width=\"200\" height=\"150\"/></g><g fill=\"#19354a\" font-family=\"Arial\" font-size=\"20\"><text x=\"300\" y=\"115\">Plan</text><text x=\"300\" y=\"135\">40 × 20 mm</text><text x=\"300\" y=\"250\">Front elevation</text><text x=\"300\" y=\"277\">40 × 30 mm</text></g></svg>"
+  }
+}

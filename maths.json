@@ -1,0 +1,307 @@
+{
+  "id": "maths",
+  "name": "Maths",
+  "strapline": "Notice patterns. Explain your thinking. Solve something new.",
+  "intro": "Mathematics helps us make fair comparisons, model change and test whether an answer makes sense. Start with a small problem, show your method and learn from an error. These BGE investigations are suggestions for departmental review; your teacher will confirm the pathway and resources for your class. Mathematics and Applications of Mathematics are distinct qualifications, rather than easier and harder versions of one course.",
+  "bge": [
+    {
+      "title": "A fair deal",
+      "question": "Which offer really saves money?",
+      "learn": [
+        "Percentages and fractions",
+        "Unit prices and proportion",
+        "Estimation and rounding"
+      ],
+      "task": "Compare 750 g of cereal at £2.70 with 1 kg at £3.80. Calculate both prices per kilogram and explain why the smaller pack is better value here.",
+      "extend": "Design two offers where the biggest discount label hides the higher unit price."
+    },
+    {
+      "title": "Patterns with a purpose",
+      "question": "Can a rule predict a design?",
+      "learn": [
+        "Sequences and expressions",
+        "Substitution",
+        "Connections between tables and graphs"
+      ],
+      "task": "A row of joined squares uses 4, 7, 10 matchsticks. Draw the next two arrangements, write a rule and test it for ten squares.",
+      "extend": "Explain why your rule works using the shared sides, rather than just continuing the sequence."
+    },
+    {
+      "title": "Data detectives",
+      "question": "Can a graph tell a misleading story?",
+      "learn": [
+        "Averages and spread",
+        "Sampling and bias",
+        "Clear axes and scales"
+      ],
+      "task": "Invent ten journey times. Draw a correctly labelled graph, then redraw it with a shortened vertical axis. Explain how its impression changes.",
+      "extend": "Compare mean and median when one journey takes an unusually long time."
+    },
+    {
+      "title": "Shape our space",
+      "question": "How much material will a design need?",
+      "learn": [
+        "Perimeter and area",
+        "Scale drawings",
+        "Units and accuracy"
+      ],
+      "task": "Draw a rectangular community garden to scale. Include a path, calculate planting area and estimate fencing length with a gate.",
+      "extend": "Keep the area constant and explore which rectangle uses the least fencing."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 4",
+      "title": "Mathematics",
+      "areas": [
+        "Expressions and Formulae",
+        "Relationships",
+        "Numeracy",
+        "Added value test"
+      ],
+      "explain": "The national course combines algebra, geometry and numeracy. Practice projects here support learning; they do not replace required unit evidence.",
+      "assessment": "Internally assessed units and added value test; your teacher confirms arrangements.",
+      "source": {
+        "title": "Qualifications Scotland: Mathematics",
+        "url": "https://www.sqa.org.uk/sqa/45750.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "Mathematics",
+      "areas": [
+        "Expressions and Formulae",
+        "Relationships",
+        "Applications"
+      ],
+      "explain": "Develop algebraic fluency, geometry, trigonometry and problem solving. Topic order and teaching examples are departmental decisions.",
+      "assessment": "Two question papers, including a non-calculator paper. Use the current specification and official marking instructions.",
+      "source": {
+        "title": "Qualifications Scotland: Mathematics",
+        "url": "https://www.sqa.org.uk/sqa/47419.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Mathematics",
+      "areas": [
+        "Expressions and Functions",
+        "Relationships and Calculus",
+        "Applications"
+      ],
+      "explain": "Build connections among functions, trigonometry, vectors and calculus. Higher extends mathematical reasoning beyond National 5.",
+      "assessment": "Two question papers, one non-calculator; practise complete working as well as final answers.",
+      "source": {
+        "title": "Qualifications Scotland: Mathematics",
+        "url": "https://www.sqa.org.uk/sqa/47910.html"
+      }
+    },
+    {
+      "level": "National 3–Higher",
+      "title": "Applications of Mathematics",
+      "areas": [
+        "Finance and numeracy",
+        "Statistics and data",
+        "Geometry, measurement and practical modelling, depending on level"
+      ],
+      "explain": "A separate nationally specified pathway. National 3, National 4, National 5 and Higher have different requirements: select the exact level on the official page. Availability at Govan requires confirmation.",
+      "assessment": "National 3/4 use internal assessment; National 5 has two papers; Higher has an exam and project.",
+      "source": {
+        "title": "Qualifications Scotland: Applications of Mathematics",
+        "url": "https://www.sqa.org.uk/sqa/81281.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Represent the problem",
+      "explain": "A sketch, table or equation makes relationships visible.",
+      "try": "Draw before calculating a ladder or garden problem.",
+      "check": "Have you labelled known quantities, unknowns and units?"
+    },
+    {
+      "title": "Show a connected method",
+      "explain": "Each line should follow logically from the previous line.",
+      "try": "Solve 3x + 7 = 22, writing the inverse operation.",
+      "check": "Substitute x = 5 into the original equation."
+    },
+    {
+      "title": "Estimate and check",
+      "explain": "An estimate catches slips a calculator cannot recognise.",
+      "try": "Estimate 19.8 × 5.1 before calculating.",
+      "check": "An answer near 100 is sensible; 1,009.8 is not."
+    },
+    {
+      "title": "Explain a conclusion",
+      "explain": "A mathematical answer needs its meaning in context.",
+      "try": "Calculate a mean journey time and describe what it represents.",
+      "check": "State minutes, sensible precision and any limitation of the sample."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A £48 jacket is reduced by 25%. What is its sale price?",
+      "hint": "Find 25% of £48, then subtract it.",
+      "answer": "25% is one quarter: £12. The sale price is £36. Multiplying £48 by 0.75 gives the same result.",
+      "extend": "After a further 10% reduction the price is £32.40, not £31.20: explain why."
+    },
+    {
+      "question": "A taxi model is C = 3 + 1.8d, where d is kilometres. Find the cost for 5 km and explain the 3.",
+      "hint": "Separate the fixed charge from the distance charge.",
+      "answer": "C = 3 + 9 = £12. The £3 is a starting charge even before distance is added.",
+      "extend": "At what distance does the model give £21? Show why d = 10."
+    },
+    {
+      "question": "Scores are 4, 6, 6, 7, 12. Find the median and mean. Which is more affected if 12 becomes 32?",
+      "hint": "Put the data in order and calculate the total.",
+      "answer": "Median = 6; mean = 35 ÷ 5 = 7. Replacing 12 by 32 leaves the median at 6 but raises the mean to 11.",
+      "extend": "Construct a five-number data set with mean 7 and median 9."
+    }
+  ],
+  "resources": [
+    {
+      "title": "NRICH problem-solving collection",
+      "url": "https://nrich.maths.org/",
+      "kind": "Try",
+      "task": "Choose one secondary problem. Save a first attempt and a revised strategy, even if you do not finish."
+    },
+    {
+      "title": "GeoGebra",
+      "url": "https://www.geogebra.org/",
+      "kind": "Try",
+      "task": "Graph y = 2x + 1 and vary the gradient. Describe exactly what changes."
+    },
+    {
+      "title": "Desmos graphing calculator",
+      "url": "https://www.desmos.com/calculator",
+      "kind": "Try",
+      "task": "Compare x², x² + 3 and (x − 3)²; predict before drawing."
+    },
+    {
+      "title": "Qualifications Scotland mathematics resources",
+      "url": "https://www.sqa.org.uk/sqa/47419.html",
+      "kind": "Read",
+      "task": "Find the official course overview and a past-paper question matching your current topic."
+    },
+    {
+      "title": "National Numeracy",
+      "url": "https://www.nationalnumeracy.org.uk/",
+      "kind": "Read",
+      "task": "Find an everyday numeracy example and explain the maths behind it."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "An error worth keeping",
+      "steps": [
+        "Photograph your own worked solution.",
+        "Annotate the first incorrect step and explain its cause.",
+        "Record a corrected method without erasing the original."
+      ],
+      "evidence": "A before-and-after page explaining one improvement."
+    },
+    {
+      "title": "Graph explorer",
+      "steps": [
+        "Enter two related functions in a graphing tool.",
+        "Screenshot and label intercepts and turning points where relevant.",
+        "Record a 45-second explanation linking equation and graph."
+      ],
+      "evidence": "A labelled graph with your spoken reasoning."
+    },
+    {
+      "title": "A measured model",
+      "steps": [
+        "Measure a safe classroom object with permission.",
+        "Create a scale diagram using a drawing app.",
+        "Add calculations and a note about measurement uncertainty."
+      ],
+      "evidence": "A diagram with units, scale and checked dimensions."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Engineering and construction",
+      "linkToLearning": "Scale, geometry and algebra support design and estimation.",
+      "nextStep": "Compare college engineering courses and construction apprenticeships."
+    },
+    {
+      "title": "Data and statistics",
+      "linkToLearning": "Interpreting variation helps organisations make evidence-based decisions.",
+      "nextStep": "Explore statistics or data science at university and a digital apprenticeship."
+    },
+    {
+      "title": "Business and finance",
+      "linkToLearning": "Percentages, forecasts and spreadsheets support everyday decisions.",
+      "nextStep": "Investigate accounting technician routes and college business courses."
+    },
+    {
+      "title": "Health and community services",
+      "linkToLearning": "Numeracy supports timings, quantities and interpreting evidence.",
+      "nextStep": "Look at a relevant college prospectus and ask which maths qualification is required."
+    }
+  ],
+  "parentTip": "Ask “How do you know?” and “Can you show it another way?” Praise a corrected error as evidence of perseverance. Short regular practice is more useful than a long session copying answers.",
+  "vocabulary": [
+    {
+      "en": "number",
+      "ar": "عدد"
+    },
+    {
+      "en": "fraction",
+      "ar": "كسر"
+    },
+    {
+      "en": "percentage",
+      "ar": "نسبة مئوية"
+    },
+    {
+      "en": "equation",
+      "ar": "معادلة"
+    },
+    {
+      "en": "graph",
+      "ar": "رسم بياني"
+    },
+    {
+      "en": "angle",
+      "ar": "زاوية"
+    },
+    {
+      "en": "area",
+      "ar": "مساحة"
+    },
+    {
+      "en": "average",
+      "ar": "متوسط"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: Mathematics",
+      "url": "https://www.sqa.org.uk/sqa/45750.html"
+    },
+    {
+      "title": "Qualifications Scotland: Mathematics",
+      "url": "https://www.sqa.org.uk/sqa/47419.html"
+    },
+    {
+      "title": "Qualifications Scotland: Mathematics",
+      "url": "https://www.sqa.org.uk/sqa/47910.html"
+    },
+    {
+      "title": "Qualifications Scotland: Applications of Mathematics",
+      "url": "https://www.sqa.org.uk/sqa/81281.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ],
+  "visual": {
+    "title": "One rule, two representations",
+    "question": "Read y = 2x + 1. What is the y-value when x = 3? Explain how the graph shows the fixed value 1.",
+    "answer": "y = 7. The line crosses the vertical axis at 1 and rises 2 units for each 1 unit along. This connects substitution with gradient and intercept.",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 360\" role=\"img\" aria-label=\"One rule, two representations\"><rect width=\"520\" height=\"360\" fill=\"#f2f7f8\"/><path d=\"M70 300H460M100 320V30\" stroke=\"#19354a\" stroke-width=\"2\"/><path d=\"M100 265L400 55\" stroke=\"#275d93\" stroke-width=\"4\"/><g fill=\"#19354a\" font-family=\"Arial\" font-size=\"19\"><text x=\"470\" y=\"306\">x</text><text x=\"88\" y=\"25\">y</text><text x=\"80\" y=\"307\">0</text><text x=\"80\" y=\"272\">1</text><text x=\"390\" y=\"327\">3</text><text x=\"70\" y=\"62\">7</text><text x=\"245\" y=\"70\">y = 2x + 1</text></g><path d=\"M400 300V55H100\" stroke=\"#728c9b\" stroke-dasharray=\"5 5\" fill=\"none\"/><circle cx=\"400\" cy=\"55\" r=\"7\" fill=\"#b71d37\"/></svg>"
+  }
+}

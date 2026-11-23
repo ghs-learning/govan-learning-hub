@@ -1,0 +1,296 @@
+{
+  "id": "home-economics",
+  "name": "Home Economics",
+  "strapline": "Skills for food, wellbeing and everyday life.",
+  "intro": "Explore food choices, preparation, sustainability and product development. Home Economics is an umbrella: Practical Cookery and Health and Food Technology are different qualifications. Suggested BGE projects need departmental review. Follow teacher instructions, allergy arrangements and school food-safety procedures for all practical work; independent hub tasks use menus, labels and planning.",
+  "bge": [
+    {
+      "title": "Food and our choices",
+      "question": "What influences what we eat?",
+      "learn": [
+        "Recognise influences on food choice.",
+        "Read food information.",
+        "Respect cultural and individual needs."
+      ],
+      "task": "Compare two fictional lunch options using cost, variety and suitability, without labelling a person’s food choices.",
+      "extend": "Identify information needed before planning for a group with allergies."
+    },
+    {
+      "title": "Kitchen organisation",
+      "question": "Why does planning matter?",
+      "learn": [
+        "Understand hygiene principles.",
+        "Read a recipe sequence.",
+        "Identify cross-contamination risks."
+      ],
+      "task": "Reorder a supplied preparation plan and explain two safety-critical stages.",
+      "extend": "Explain why cleaning and separating raw and ready-to-eat foods are different controls."
+    },
+    {
+      "title": "Food waste detectives",
+      "question": "How can resources go further?",
+      "learn": [
+        "Distinguish date labels.",
+        "Consider storage and portion planning.",
+        "Read waste data."
+      ],
+      "task": "Use a fictional household shopping list to propose three waste-reduction changes.",
+      "extend": "Explain why a use-by date should not be treated like a best-before date."
+    },
+    {
+      "title": "Develop a product",
+      "question": "How do we know a food meets a brief?",
+      "learn": [
+        "Identify user requirements.",
+        "Plan fair sensory comparison.",
+        "Use feedback to refine ideas."
+      ],
+      "task": "Design a paper-based snack concept for a stated brief, with ingredients and evaluation criteria.",
+      "extend": "Explain how coded samples could reduce bias in a teacher-organised sensory test."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3 / National 4",
+      "title": "Practical Cookery",
+      "areas": [
+        "Cookery Skills, Techniques and Processes",
+        "Understanding and Using Ingredients",
+        "Organisational Skills for Cooking"
+      ],
+      "explain": "Develop safe practical preparation and organisation. National 4 includes added-value practical work.",
+      "assessment": "Internal assessment, with added value at National 4; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — Practical Cookery",
+        "url": "https://www.sqa.org.uk/sqa/45681.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Practical Cookery",
+      "areas": [
+        "Cookery skills and processes",
+        "Ingredients",
+        "Organisation and practical performance"
+      ],
+      "explain": "A practical qualification focused on preparation, cooking and presentation. There is no Higher Practical Cookery.",
+      "assessment": "For session 2026–27 the assignment has been removed. Use the current specification for the question paper and practical activity requirements.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Practical Cookery",
+        "url": "https://www.sqa.org.uk/sqa/45683.html"
+      }
+    },
+    {
+      "level": "National 4 / National 5",
+      "title": "Health and Food Technology",
+      "areas": [
+        "Food for Health",
+        "Food Product Development",
+        "Contemporary Food Issues"
+      ],
+      "explain": "A separate course connecting nutrition, consumer issues and food product development. National 4 includes added value.",
+      "assessment": "National 4 is internally assessed; National 5 uses a question paper and assignment under current conditions.",
+      "source": {
+        "title": "Qualifications Scotland — Health and Food Technology",
+        "url": "https://www.sqa.org.uk/sqa/45740.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Health and Food Technology",
+      "areas": [
+        "Food for Health",
+        "Food Product Development",
+        "Contemporary Food Issues"
+      ],
+      "explain": "Analyse food needs, functional properties, product development and contemporary issues in greater depth. This is a different route from Practical Cookery.",
+      "assessment": "Question paper and assignment; discuss entry and availability with the department.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Health and Food Technology",
+        "url": "https://www.sqa.org.uk/sqa/47899.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Read a label",
+      "explain": "Compare like-for-like quantities and identify the relevant information.",
+      "try": "Compare sugar per 100 g and per portion for two fictional products.",
+      "check": "Explain how portion size can change the apparent comparison."
+    },
+    {
+      "title": "Plan a workflow",
+      "explain": "Organise tasks so timing, hygiene and resources work together.",
+      "try": "Annotate a teacher-provided plan with storage and cleaning checkpoints.",
+      "check": "Show which tasks can overlap safely and which require separation."
+    },
+    {
+      "title": "Evaluate a food product",
+      "explain": "Use criteria linked to a brief rather than personal preference alone.",
+      "try": "Write three criteria for a convenient school snack concept.",
+      "check": "Each criterion should be specific enough to evaluate."
+    },
+    {
+      "title": "Analyse evidence",
+      "explain": "Food claims need reliable evidence and appropriate context.",
+      "try": "Identify the source and audience of a food advertisement.",
+      "check": "Distinguish a marketing claim from evidence and avoid personalised health conclusions."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Product A has 12 g sugar per 100 g and a 25 g portion. How much sugar is in that portion?",
+      "hint": "Find one quarter of the per-100 g figure.",
+      "answer": "12 × 25/100 = 3 g. Use the same basis when comparing products; a smaller printed portion can make values look lower.",
+      "extend": "Compare with a product containing 10 g per 100 g in a 40 g portion."
+    },
+    {
+      "question": "Why is using the same unwashed board for raw chicken and ready-to-eat salad unsafe?",
+      "hint": "The salad has no later cooking step.",
+      "answer": "Microorganisms may transfer from raw poultry to food that will be eaten without further cooking. Follow school procedures for separate equipment, cleaning and hand hygiene.",
+      "extend": "Identify how a workflow plan could prevent that transfer."
+    },
+    {
+      "question": "A developer asks five friends whether a new food is “the best ever”. Why is this weak evaluation?",
+      "hint": "Consider sample, wording and criteria.",
+      "answer": "The sample is small and unrepresentative, and the leading question encourages praise. Use neutral questions and criteria linked to the brief; teacher-organised coded comparisons can reduce bias.",
+      "extend": "Write two neutral feedback questions."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Food Standards Scotland",
+      "url": "https://www.foodstandards.gov.scot/",
+      "kind": "Read",
+      "task": "Find food-safety guidance and explain one rule using its purpose, not just its wording."
+    },
+    {
+      "title": "Food a fact of life cooking skills",
+      "url": "https://www.foodafactoflife.org.uk/cooking/cooking-skills",
+      "kind": "Watch",
+      "task": "Review a teacher-selected technique resource. Practical use remains supervised and school-directed."
+    },
+    {
+      "title": "Food a fact of life nutritional analysis",
+      "url": "https://www.foodafactoflife.org.uk/cooking/nutritional-analysis/",
+      "kind": "Try",
+      "task": "Analyse a supplied recipe as a learning exercise; do not use it for personalised dietary advice."
+    },
+    {
+      "title": "Zero Waste Scotland",
+      "url": "https://www.zerowastescotland.org.uk/",
+      "kind": "Read",
+      "task": "Investigate food-waste prevention and identify a feasible planning change."
+    },
+    {
+      "title": "Official assessment information",
+      "url": "https://www.sqa.org.uk/sqa/117428.html",
+      "kind": "Read",
+      "task": "Check current assessment changes before using an older Practical Cookery resource."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Workflow designer",
+      "steps": [
+        "Use a teacher-provided recipe on screen.",
+        "Create an ordered timeline with safety checkpoints.",
+        "Explain two sequencing decisions in audio and captions."
+      ],
+      "evidence": "A clear preparation plan ready for teacher feedback."
+    },
+    {
+      "title": "Label comparison",
+      "steps": [
+        "Use supplied food-label images.",
+        "Create a comparison table on a consistent basis.",
+        "Write a cautious conclusion explaining portion size."
+      ],
+      "evidence": "A data-based consumer comparison."
+    },
+    {
+      "title": "Product development journal",
+      "steps": [
+        "Sketch a concept against a stated brief.",
+        "Add teacher-approved feedback from a class activity.",
+        "Show a revised version and justify one change."
+      ],
+      "evidence": "A record of design decisions, not live assignment content."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Professional cook or chef",
+      "linkToLearning": "Organisation and consistent preparation support hospitality.",
+      "nextStep": "Explore college professional cookery and hospitality apprenticeships."
+    },
+    {
+      "title": "Food technologist",
+      "linkToLearning": "Product development and evidence underpin food manufacture.",
+      "nextStep": "Compare college food science and university food technology routes."
+    },
+    {
+      "title": "Environmental health work",
+      "linkToLearning": "Food safety and legislation protect consumers.",
+      "nextStep": "Investigate relevant degree and professional training requirements."
+    },
+    {
+      "title": "Hospitality management",
+      "linkToLearning": "Resource planning, communication and service work together.",
+      "nextStep": "Explore college hospitality courses and employer training routes."
+    }
+  ],
+  "parentTip": "Talk through a shopping list, label or meal plan. Keep discussion respectful of culture, budget and individual needs; school practicals follow agreed allergy and safety procedures.",
+  "vocabulary": [
+    {
+      "en": "Ingredient",
+      "ar": "مكوّن"
+    },
+    {
+      "en": "Recipe",
+      "ar": "وصفة"
+    },
+    {
+      "en": "Hygiene",
+      "ar": "نظافة"
+    },
+    {
+      "en": "Nutrition",
+      "ar": "تغذية"
+    },
+    {
+      "en": "Allergy",
+      "ar": "حساسية"
+    },
+    {
+      "en": "Portion",
+      "ar": "حصة"
+    },
+    {
+      "en": "Evaluation",
+      "ar": "تقييم"
+    },
+    {
+      "en": "Waste",
+      "ar": "هدر"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — Practical Cookery",
+      "url": "https://www.sqa.org.uk/sqa/45681.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Practical Cookery",
+      "url": "https://www.sqa.org.uk/sqa/45683.html"
+    },
+    {
+      "title": "Qualifications Scotland — Health and Food Technology",
+      "url": "https://www.sqa.org.uk/sqa/45740.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Health and Food Technology",
+      "url": "https://www.sqa.org.uk/sqa/47899.html"
+    }
+  ]
+}

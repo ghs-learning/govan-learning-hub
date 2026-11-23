@@ -1,0 +1,283 @@
+{
+  "id": "english",
+  "name": "English",
+  "strapline": "Find your voice. Read closely. Make every word count.",
+  "intro": "English is a place to meet other lives, question persuasive messages and express your own thinking. Reading, writing, listening and talking belong together. Suggested BGE units below can be adapted around texts chosen by the department. Senior Scottish set texts and assessment requirements must follow the current national lists; the examples here are original practice, not prescribed texts.",
+  "bge": [
+    {
+      "title": "Govan voices",
+      "question": "Whose stories should a place tell?",
+      "learn": [
+        "Narrative viewpoint",
+        "Sensory detail",
+        "Respectful listening"
+      ],
+      "task": "Write a 250-word scene set on an imagined Govan street. Let a small detail reveal how your character feels, rather than stating the emotion.",
+      "extend": "Retell 100 words from another viewpoint and explain how readers’ sympathies change."
+    },
+    {
+      "title": "Persuasion everywhere",
+      "question": "How do words influence a choice?",
+      "learn": [
+        "Audience and purpose",
+        "Evidence and opinion",
+        "Rhetorical techniques"
+      ],
+      "task": "Compare two invented slogans for a school reading campaign. Write a persuasive paragraph using a reason, evidence and a clear call to action.",
+      "extend": "Add a counterargument and respond fairly without mocking the opposing view."
+    },
+    {
+      "title": "Poetry under the microscope",
+      "question": "How can a few lines carry a big idea?",
+      "learn": [
+        "Imagery and word choice",
+        "Sound and rhythm",
+        "Inference supported by quotation"
+      ],
+      "task": "Choose a teacher-approved poem. Annotate three details and explain what each suggests about its speaker or theme.",
+      "extend": "Compare the effect of reading one stanza aloud in two different tones."
+    },
+    {
+      "title": "From page to performance",
+      "question": "What changes when a text is spoken?",
+      "learn": [
+        "Dialogue and character",
+        "Stage directions",
+        "Collaborative discussion"
+      ],
+      "task": "Adapt a short original story into a two-person scene. Add purposeful pauses and perform it privately or in class with permission.",
+      "extend": "Explain which narrative detail you could not transfer directly and how you replaced it."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3/4",
+      "title": "English",
+      "areas": [
+        "Analysis and Evaluation",
+        "Creation and Production",
+        "National 4 added value"
+      ],
+      "explain": "Develop reading, listening, writing and talking through texts selected for learners. National 4 includes the added value assignment; National 3 does not.",
+      "assessment": "Internally assessed course evidence; National 4 includes added value. Ask your teacher which evidence is required.",
+      "source": {
+        "title": "Qualifications Scotland: English",
+        "url": "https://www.sqa.org.uk/sqa/45963.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "English",
+      "areas": [
+        "Reading for Understanding, Analysis and Evaluation",
+        "Critical reading, including Scottish text",
+        "Portfolio writing",
+        "Spoken language"
+      ],
+      "explain": "Learn to explain how a writer creates meaning and produce crafted writing. Your department chooses texts within national requirements.",
+      "assessment": "Question papers, writing portfolio and spoken-language requirement. Use current guidance on permitted support.",
+      "source": {
+        "title": "Qualifications Scotland: English",
+        "url": "https://www.sqa.org.uk/sqa/47410.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "English",
+      "areas": [
+        "Reading for Understanding, Analysis and Evaluation",
+        "Critical reading",
+        "Portfolio writing",
+        "Spoken language"
+      ],
+      "explain": "Analyse increasingly complex ideas and style. The Scottish set-text list applies; choices and teaching order belong to the department.",
+      "assessment": "Current course assessment guidance applies, including changes from session 2026–27. Check the official page rather than relying on older paper timings.",
+      "source": {
+        "title": "Qualifications Scotland: English",
+        "url": "https://www.sqa.org.uk/sqa/45963.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Quote with purpose",
+      "explain": "A short precise quotation is more useful than copying a whole paragraph.",
+      "try": "Select the two words that best show an uneasy atmosphere.",
+      "check": "Explain their connotations and link back to the question."
+    },
+    {
+      "title": "Analyse rather than label",
+      "explain": "Naming a metaphor does not explain its effect.",
+      "try": "Complete: “Comparing the street to a river suggests…”",
+      "check": "Describe the shared quality and the impression created."
+    },
+    {
+      "title": "Plan an argument",
+      "explain": "Arrange reasons so each paragraph moves the argument forward.",
+      "try": "Write a claim, evidence, explanation and a fair counterpoint.",
+      "check": "Could a reader follow why the evidence supports your conclusion?"
+    },
+    {
+      "title": "Edit in passes",
+      "explain": "Revise ideas before checking individual commas.",
+      "try": "Check structure first, then sentence clarity, then spelling.",
+      "check": "Read aloud and revise one sentence that sounds awkward."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Original sentence: “The last bus sighed into the empty street.” Explain the effect of “sighed”.",
+      "hint": "Think about the human action and the mood it implies.",
+      "answer": "“Sighed” personifies the bus, suggesting tiredness or relief at the end of a long day. This makes the empty street feel quiet and weary. A strong response connects the connotation to the atmosphere.",
+      "extend": "Replace “sighed” with “roared”. Explain how the mood changes."
+    },
+    {
+      "question": "Original claim: “Everyone knows phones improve learning.” Rewrite it as a more credible argument.",
+      "hint": "Avoid unsupported universal claims; suggest relevant evidence.",
+      "answer": "For example: “Phones can support learning when a teacher sets a clear task, such as photographing stages of a design. Their value depends on how they are used.” This qualifies the claim and gives a concrete example.",
+      "extend": "Write a counterargument about distraction and answer it fairly."
+    },
+    {
+      "question": "Original opening: “Rain hit the window. Mina checked the clock again. Her bag waited by the door.” What can you infer?",
+      "hint": "Combine details, but separate inference from certainty.",
+      "answer": "Mina may be anxious or impatient about leaving: repeatedly checking the clock suggests waiting. The ready bag supports this. We cannot know where she is going from this extract alone.",
+      "extend": "Write two next sentences that confirm one inference without directly naming her emotion."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Scottish Book Trust learning resources",
+      "url": "https://www.scottishbooktrust.com/learning-resources",
+      "kind": "Read",
+      "task": "Choose an age-appropriate author resource and make three questions for a reading group."
+    },
+    {
+      "title": "Authors Live",
+      "url": "https://www.scottishbooktrust.com/authors-live-on-demand",
+      "kind": "Watch",
+      "task": "Watch an author discuss a writing choice; try that technique in your own paragraph."
+    },
+    {
+      "title": "Scottish Poetry Library",
+      "url": "https://www.scottishpoetrylibrary.org.uk/",
+      "kind": "Read",
+      "task": "Find a poem, select one striking image and explain its effect."
+    },
+    {
+      "title": "National Library of Scotland: start research",
+      "url": "https://www.nls.uk/tools-for-research/how-to-begin-your-research/",
+      "kind": "Read",
+      "task": "Identify an original source for a writing topic and record author, title and date."
+    },
+    {
+      "title": "Royal Shakespeare Company learning",
+      "url": "https://www.rsc.org.uk/learn",
+      "kind": "Watch",
+      "task": "Explore a play resource and compare a performance choice with the written dialogue."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Listen to your writing",
+      "steps": [
+        "Draft a paragraph in your usual writing app.",
+        "Use read-aloud or record yourself reading it.",
+        "Revise unclear sentences and save both versions."
+      ],
+      "evidence": "An edited paragraph with a note explaining two choices."
+    },
+    {
+      "title": "A quotation close-up",
+      "steps": [
+        "Use a teacher-approved digital extract.",
+        "Highlight only the words you will analyse.",
+        "Add a voice note explaining effect, context and theme."
+      ],
+      "evidence": "Three precise annotations in your own words."
+    },
+    {
+      "title": "A purposeful podcast",
+      "steps": [
+        "Plan a two-minute review with a clear recommendation.",
+        "Record without including anyone else’s voice without permission.",
+        "Add a transcript and check names and quotations."
+      ],
+      "evidence": "An audio review plus accessible transcript."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Journalism and communications",
+      "linkToLearning": "Research, verification and clear writing help audiences understand events.",
+      "nextStep": "Explore college media courses and university journalism pathways."
+    },
+    {
+      "title": "Law and public service",
+      "linkToLearning": "Careful reading and reasoned argument support fair decisions.",
+      "nextStep": "Compare entry requirements and consider a legal administration apprenticeship."
+    },
+    {
+      "title": "Publishing and creative work",
+      "linkToLearning": "Editing, storytelling and audience awareness support creative industries.",
+      "nextStep": "Build a small portfolio and investigate college creative-writing or media courses."
+    },
+    {
+      "title": "Every workplace",
+      "linkToLearning": "Professional messages and active listening matter in hospitality, trades and healthcare.",
+      "nextStep": "Ask someone at work which writing or speaking task they use every day."
+    }
+  ],
+  "parentTip": "Let your young person choose some reading for pleasure. Ask about a character’s decision or one memorable phrase; a short conversation can develop understanding without turning every book into a test.",
+  "vocabulary": [
+    {
+      "en": "reading",
+      "ar": "قراءة"
+    },
+    {
+      "en": "writing",
+      "ar": "كتابة"
+    },
+    {
+      "en": "evidence",
+      "ar": "دليل"
+    },
+    {
+      "en": "character",
+      "ar": "شخصية"
+    },
+    {
+      "en": "poem",
+      "ar": "قصيدة"
+    },
+    {
+      "en": "argument",
+      "ar": "حجة"
+    },
+    {
+      "en": "opinion",
+      "ar": "رأي"
+    },
+    {
+      "en": "meaning",
+      "ar": "معنى"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: English",
+      "url": "https://www.sqa.org.uk/sqa/45963.html"
+    },
+    {
+      "title": "Qualifications Scotland: English",
+      "url": "https://www.sqa.org.uk/sqa/47410.html"
+    },
+    {
+      "title": "Qualifications Scotland: English",
+      "url": "https://www.sqa.org.uk/sqa/45963.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}

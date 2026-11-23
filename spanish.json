@@ -1,0 +1,285 @@
+{
+  "id": "spanish",
+  "name": "Spanish",
+  "strapline": "Hola, mundo. Build confidence one conversation at a time.",
+  "intro": "Spanish connects communities across several continents, with many accents and identities. You do not need a perfect accent to communicate thoughtfully. Listen for meaning, try a phrase and improve it. Suggested BGE units are starting points, not confirmed school courses. The national Modern Languages framework applies to Spanish, while your teacher selects relevant texts and contexts.",
+  "bge": [
+    {
+      "title": "Así soy yo",
+      "question": "How can I introduce myself confidently?",
+      "learn": [
+        "Greetings and questions",
+        "Adjective agreement",
+        "Giving reasons for preferences"
+      ],
+      "task": "Create a fictional profile: name, age, two interests and a reason. Use “Me gusta…” and “porque…”; do not publish personal information.",
+      "extend": "Ask three follow-up questions rather than reading a memorised monologue."
+    },
+    {
+      "title": "Mi barrio",
+      "question": "What makes a neighbourhood welcoming?",
+      "learn": [
+        "Places and directions",
+        "Hay and no hay",
+        "Comparisons"
+      ],
+      "task": "Design a simple imaginary town map. Give directions from the station to a library and describe one improvement.",
+      "extend": "Compare two neighbourhoods using “más… que” and justify a preference."
+    },
+    {
+      "title": "Un día diferente",
+      "question": "How do routines shape our day?",
+      "learn": [
+        "Time expressions",
+        "Present-tense verbs",
+        "Sequencing events"
+      ],
+      "task": "Write six diary sentences about a fictional school day using “primero”, “después” and “finalmente”.",
+      "extend": "Change two events to a past time frame after checking the appropriate verb forms."
+    },
+    {
+      "title": "Voces del mundo hispano",
+      "question": "Is one culture enough to describe a language?",
+      "learn": [
+        "Spanish-speaking places",
+        "Respectful cultural comparison",
+        "Listening for key details"
+      ],
+      "task": "Investigate a celebration through a museum or cultural organisation. Record where, when and what it means to participants.",
+      "extend": "Compare two accounts and identify diversity within one country."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3/4",
+      "title": "Spanish — Modern Languages",
+      "areas": [
+        "Understanding Language",
+        "Using Language",
+        "National 4 added value assignment"
+      ],
+      "explain": "These national courses develop receptive and productive language skills. National 4 adds an assignment; your teacher selects appropriate topics.",
+      "assessment": "Internal unit assessment; National 4 also requires the added value assignment.",
+      "source": {
+        "title": "Qualifications Scotland: Spanish — Modern Languages",
+        "url": "https://www.sqa.org.uk/sqa/45671.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "Spanish — Modern Languages",
+      "areas": [
+        "Society",
+        "Learning",
+        "Employability",
+        "Culture",
+        "Reading, listening, writing and talking"
+      ],
+      "explain": "The four contexts frame language learning. Suggested cultural investigations here are optional enrichment, not an additional national unit.",
+      "assessment": "Reading and writing paper, listening paper, writing assignment and talking performance. Follow current controlled-assessment rules.",
+      "source": {
+        "title": "Qualifications Scotland: Spanish — Modern Languages",
+        "url": "https://www.sqa.org.uk/sqa/45671.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Spanish — Modern Languages",
+      "areas": [
+        "Society",
+        "Learning",
+        "Employability",
+        "Culture",
+        "Extended opinions and reasons"
+      ],
+      "explain": "Develop richer language, inference and discussion across the national contexts. Your class’s chosen examples are confirmed by the department.",
+      "assessment": "Reading and directed writing, listening, writing assignment and talking performance. Check current official guidance.",
+      "source": {
+        "title": "Qualifications Scotland: Spanish — Modern Languages",
+        "url": "https://www.sqa.org.uk/sqa/46500.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Listen in layers",
+      "explain": "First listen for the topic, then for specific detail.",
+      "try": "Predict three words, listen once without a transcript and write a short gist.",
+      "check": "Replay to confirm details and notice negatives or time expressions."
+    },
+    {
+      "title": "Build a reusable phrase bank",
+      "explain": "Learn a useful chunk with its meaning and an example.",
+      "try": "Save an opinion, a reason and a contrasting connector.",
+      "check": "Can you adapt the phrase to a new topic without copying a whole answer?"
+    },
+    {
+      "title": "Read for evidence",
+      "explain": "Look for who, when and why before translating every word.",
+      "try": "Underline the phrase supporting each reading answer.",
+      "check": "Check pronouns, negatives and whether the event is past, present or future."
+    },
+    {
+      "title": "Speak to communicate",
+      "explain": "A clear message matters more than racing through a script.",
+      "try": "Record 30 seconds, listen and improve one pronunciation or verb.",
+      "check": "Can a listener understand your idea, reason and follow-up question?"
+    }
+  ],
+  "practice": [
+    {
+      "question": "Read: “Los sábados trabajo en una tienda. Me gusta hablar con los clientes, pero termino muy cansado.” What does the speaker like, and what is the drawback?",
+      "hint": "“Pero” signals a contrast; “cansado” describes how the person feels.",
+      "answer": "They like speaking with customers, but finish very tired. The shop job is on Saturdays. Avoid translating “clientes” as friends.",
+      "extend": "Write a Spanish reply asking what time the work finishes."
+    },
+    {
+      "question": "Improve: “Me gusta el fútbol. Es bueno.” Give a more precise reason.",
+      "hint": "Use “porque” and say what you enjoy about it.",
+      "answer": "One possibility is “Me gusta el fútbol porque es emocionante y puedo jugar con mis amigos.” There are many valid answers; check that the reason actually explains your opinion.",
+      "extend": "Add a contrasting opinion about another activity using “sin embargo”."
+    },
+    {
+      "question": "A café bill lists two juices at €2.50 each and one sandwich at €4.20. Ask for the bill and state the total in Spanish.",
+      "hint": "Two juices cost €5.00; add the sandwich.",
+      "answer": "“La cuenta, por favor. Son nueve euros con veinte.” Total €9.20. A polite request is as important as accurate numbers.",
+      "extend": "Practise ordering without a script, then swap customer and server roles."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Instituto Cervantes: Aveteca",
+      "url": "https://cvc.cervantes.es/ensenanza/actividades_ave/aveteca.htm",
+      "kind": "Try",
+      "task": "Choose an A1/A2 activity, attempt it first and note three phrases you could reuse."
+    },
+    {
+      "title": "Language Transfer: Complete Spanish",
+      "url": "https://www.languagetransfer.org/complete-spanish",
+      "kind": "Listen",
+      "task": "Pause before each learner response. Say your own answer and note one pattern you understood."
+    },
+    {
+      "title": "Instituto Cervantes",
+      "url": "https://cervantes.org/",
+      "kind": "Read",
+      "task": "Find a cultural event and write a short invitation in Spanish."
+    },
+    {
+      "title": "RAE dictionary",
+      "url": "https://dle.rae.es/",
+      "kind": "Try",
+      "task": "Check the meaning and grammatical gender of three words; dictionaries support, rather than replace, sentence writing."
+    },
+    {
+      "title": "National 5 Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/45671.html",
+      "kind": "Read",
+      "task": "Choose Spanish listening or reading practice at your level and compare your answer with official guidance."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "My listening laboratory",
+      "steps": [
+        "Choose a short teacher-approved audio.",
+        "Listen before viewing the transcript and record your understanding.",
+        "Compare with the transcript and colour-code new expressions."
+      ],
+      "evidence": "A gist, three checked details and two phrases to reuse."
+    },
+    {
+      "title": "A conversation that grows",
+      "steps": [
+        "Create a short prompt card without full sentences.",
+        "Record a fictional conversation with permission.",
+        "Repeat after improving one tense and one follow-up question."
+      ],
+      "evidence": "Two recordings and a brief reflection on what improved."
+    },
+    {
+      "title": "A visual phrase journey",
+      "steps": [
+        "Photograph objects or signs where photography is permitted.",
+        "Add accurate target-language captions using a checked dictionary.",
+        "Record yourself explaining a connection between the images."
+      ],
+      "evidence": "A small narrated slide deck; no identifiable people or personal addresses."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Tourism and hospitality",
+      "linkToLearning": "Listening, welcoming visitors and clarifying requests improve service.",
+      "nextStep": "Explore college travel or hospitality courses and tourism apprenticeships."
+    },
+    {
+      "title": "International business",
+      "linkToLearning": "Language and cultural awareness support customers and partnerships.",
+      "nextStep": "Compare business-with-languages degrees and work-based business routes."
+    },
+    {
+      "title": "Translation and communication",
+      "linkToLearning": "Accurate meaning, research and register matter more than word substitution.",
+      "nextStep": "Investigate language degrees and practise editing a short bilingual explanation."
+    },
+    {
+      "title": "Community and public service",
+      "linkToLearning": "Respectful communication helps schools, health and community organisations.",
+      "nextStep": "Explore college routes and ask how language skills complement another profession."
+    }
+  ],
+  "parentTip": "Ask your young person to teach you three useful phrases. Let them replay a short recording and identify one improvement. Encourage a small daily practice habit and curiosity about different communities.",
+  "vocabulary": [
+    {
+      "en": "question",
+      "ar": "سؤال"
+    },
+    {
+      "en": "answer",
+      "ar": "إجابة"
+    },
+    {
+      "en": "language",
+      "ar": "لغة"
+    },
+    {
+      "en": "opinion",
+      "ar": "رأي"
+    },
+    {
+      "en": "past",
+      "ar": "ماضٍ"
+    },
+    {
+      "en": "present",
+      "ar": "حاضر"
+    },
+    {
+      "en": "future",
+      "ar": "مستقبل"
+    },
+    {
+      "en": "culture",
+      "ar": "ثقافة"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: Spanish — Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/45671.html"
+    },
+    {
+      "title": "Qualifications Scotland: Spanish — Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/45671.html"
+    },
+    {
+      "title": "Qualifications Scotland: Spanish — Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/46500.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}

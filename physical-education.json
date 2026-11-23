@@ -1,0 +1,277 @@
+{
+  "id": "physical-education",
+  "name": "Physical Education",
+  "strapline": "Move with purpose. Understand performance.",
+  "intro": "Explore the decisions, relationships and evidence behind performance. Suggested BGE themes are examples, not a prescribed school programme. Practical participation follows teacher guidance, inclusion arrangements and school safety procedures. Independent work here involves analysis and reflection, not unsupervised training plans, fitness testing or exercise regimes.",
+  "bge": [
+    {
+      "title": "Team decisions",
+      "question": "What makes a team effective?",
+      "learn": [
+        "Recognise space and support.",
+        "Communicate constructively.",
+        "Explain tactical choices."
+      ],
+      "task": "Analyse a teacher-selected game clip and draw an alternative supporting position.",
+      "extend": "Explain how the best decision changes when opponents change their formation."
+    },
+    {
+      "title": "Skills and feedback",
+      "question": "How can feedback improve learning?",
+      "learn": [
+        "Identify a skill’s key features.",
+        "Use focused observation.",
+        "Set manageable process targets."
+      ],
+      "task": "Use a supplied performance description to write one specific strength and a next learning step.",
+      "extend": "Explain why several small changes at once might make progress hard to evaluate."
+    },
+    {
+      "title": "Performance factors",
+      "question": "Why does performance vary?",
+      "learn": [
+        "Distinguish physical factors.",
+        "Recognise mental and emotional factors.",
+        "Identify social influences."
+      ],
+      "task": "Analyse a fictional performer’s situation using at least two different factors and supporting evidence.",
+      "extend": "Explain how factors can interact rather than operate independently."
+    },
+    {
+      "title": "Inclusive participation",
+      "question": "How can sport welcome more people?",
+      "learn": [
+        "Recognise access barriers.",
+        "Consider adaptations.",
+        "Respect different needs."
+      ],
+      "task": "Redesign the rules of a fictional school activity to improve participation while retaining its purpose.",
+      "extend": "Explain how to gather participant feedback without making assumptions about ability."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3 / National 4",
+      "title": "Physical Education",
+      "areas": [
+        "Performance Skills",
+        "Factors Impacting on Performance",
+        "National 4 added-value performance"
+      ],
+      "explain": "Develop practical performance and understanding of factors affecting it. National 4 includes added-value performance.",
+      "assessment": "Internally assessed units and National 4 added value; pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — Physical Education",
+        "url": "https://www.sqa.org.uk/sqa/45741.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Physical Education",
+      "areas": [
+        "Performance skills",
+        "Physical, mental, emotional and social factors",
+        "Planning, monitoring and evaluating development"
+      ],
+      "explain": "Use evidence to understand performance and develop skills in teacher-selected activities.",
+      "assessment": "Performance and portfolio under current national requirements. Independent reflections are practice, not ready-made portfolio answers.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Physical Education",
+        "url": "https://www.sqa.org.uk/sqa/45741.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Physical Education",
+      "areas": [
+        "Performance",
+        "Factors impacting on performance",
+        "Analysing and evaluating performance development"
+      ],
+      "explain": "Connect data collection, approaches to development and evaluation with physical, mental, emotional and social factors.",
+      "assessment": "Performance and question paper. Teachers confirm activities, adaptations and current assessment requirements.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Physical Education",
+        "url": "https://www.sqa.org.uk/sqa/47901.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Collect useful evidence",
+      "explain": "An observation method must match the factor being investigated.",
+      "try": "Design a paper checklist for decision-making in a teacher-selected clip.",
+      "check": "Does it record a specific observable behaviour consistently?"
+    },
+    {
+      "title": "Explain performance factors",
+      "explain": "Link a factor to an identifiable effect in context.",
+      "try": "Explain how concentration could influence a passing decision.",
+      "check": "Give a cause-and-effect chain rather than simply saying performance improves."
+    },
+    {
+      "title": "Set process targets",
+      "explain": "Targets identify a controllable action and a way to review it.",
+      "try": "Write a target for communication during teacher-led practice.",
+      "check": "State what will be observed and when teacher feedback will be reviewed."
+    },
+    {
+      "title": "Evaluate fairly",
+      "explain": "Use comparable evidence before judging an approach.",
+      "try": "Compare two fictional observation records with different opponents.",
+      "check": "Acknowledge contextual differences that limit the comparison."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A player completes 18 of 24 passes. Calculate pass completion and identify a limitation of this measure.",
+      "hint": "Convert the fraction to a percentage; consider difficulty.",
+      "answer": "18/24 × 100 = 75%. The percentage does not show pass difficulty, pressure, distance or tactical value. Combine it with relevant observations.",
+      "extend": "Explain why two players with 75% completion might contribute differently."
+    },
+    {
+      "question": "A performer loses concentration after making an error. Explain a possible effect and a suitable discussion point for the teacher.",
+      "hint": "Connect attention to a specific next decision.",
+      "answer": "Attention may remain on the mistake, delaying recognition of an available pass or defensive responsibility. Discuss a teacher-approved refocusing cue and how its effect could be observed.",
+      "extend": "Distinguish concentration from a physical factor such as endurance."
+    },
+    {
+      "question": "A team wins after changing its tactics. Does this prove the new tactics caused improvement?",
+      "hint": "Consider opposition and other contextual factors.",
+      "answer": "No. Opposition, player availability, conditions and chance may also matter. Use repeated comparable observations and process evidence, not the result alone, to evaluate the change.",
+      "extend": "Identify a measure that could show whether the tactical aim was achieved."
+    }
+  ],
+  "resources": [
+    {
+      "title": "sportscotland",
+      "url": "https://sportscotland.org.uk/",
+      "kind": "Read",
+      "task": "Explore coaching or inclusion resources and identify an example of supportive practice."
+    },
+    {
+      "title": "Scottish Disability Sport",
+      "url": "https://www.scottishdisabilitysport.com/",
+      "kind": "Watch",
+      "task": "Explore available sport resources and explain how an adaptation supports participation."
+    },
+    {
+      "title": "Youth Sport Trust",
+      "url": "https://www.youthsporttrust.org/",
+      "kind": "Read",
+      "task": "Investigate leadership or inclusive participation and propose a school discussion question."
+    },
+    {
+      "title": "Olympic education",
+      "url": "https://olympics.com/ioc/education",
+      "kind": "Read",
+      "task": "Evaluate a sporting-values example using a specific action and its impact."
+    },
+    {
+      "title": "Understanding Standards PE",
+      "url": "https://www.understandingstandards.org.uk/Subjects/PhysicalEducation",
+      "kind": "Read",
+      "task": "Discuss published examples and assessment expectations with your teacher; some evidence is staff-only."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Tactical analyst",
+      "steps": [
+        "Use a teacher-approved game clip.",
+        "Pause at three decision points and annotate space or positioning.",
+        "Explain a possible choice and its consequence."
+      ],
+      "evidence": "A reasoned analysis, with copyright and recording permission respected."
+    },
+    {
+      "title": "Feedback notebook",
+      "steps": [
+        "Record a teacher-agreed learning target.",
+        "Add brief evidence after a supervised lesson.",
+        "Review the target using one specific observation."
+      ],
+      "evidence": "A personal learning reflection with no health or identity details shared publicly."
+    },
+    {
+      "title": "Inclusive design",
+      "steps": [
+        "Create a diagram of a fictional activity space.",
+        "Annotate one rule, equipment or space adaptation.",
+        "Explain how you would seek participant feedback."
+      ],
+      "evidence": "An inclusion proposal ready for teacher discussion, not a home exercise task."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Sports coaching",
+      "linkToLearning": "Observation, communication and inclusive planning support participants.",
+      "nextStep": "Explore college sports coaching and governing-body qualifications."
+    },
+    {
+      "title": "Physiotherapy",
+      "linkToLearning": "Anatomy and movement analysis connect to further healthcare study.",
+      "nextStep": "Check degree entry and professional registration requirements."
+    },
+    {
+      "title": "Leisure and recreation work",
+      "linkToLearning": "Safety awareness and customer support help run facilities.",
+      "nextStep": "Investigate leisure apprenticeships and local college pathways."
+    },
+    {
+      "title": "PE teaching or sports development",
+      "linkToLearning": "Analysis, leadership and inclusive practice support learning and participation.",
+      "nextStep": "Compare university teacher education and sports development routes."
+    }
+  ],
+  "parentTip": "Ask about a decision, teamwork moment or learning target rather than only a score. Encourage participation and teacher-guided progress without comparing bodies or prescribing extra training.",
+  "vocabulary": [
+    {
+      "en": "Performance",
+      "ar": "أداء"
+    },
+    {
+      "en": "Skill",
+      "ar": "مهارة"
+    },
+    {
+      "en": "Team",
+      "ar": "فريق"
+    },
+    {
+      "en": "Feedback",
+      "ar": "تغذية راجعة"
+    },
+    {
+      "en": "Concentration",
+      "ar": "تركيز"
+    },
+    {
+      "en": "Tactics",
+      "ar": "تكتيكات"
+    },
+    {
+      "en": "Inclusion",
+      "ar": "شمول"
+    },
+    {
+      "en": "Evaluation",
+      "ar": "تقييم"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — Physical Education",
+      "url": "https://www.sqa.org.uk/sqa/45741.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Physical Education",
+      "url": "https://www.sqa.org.uk/sqa/45741.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Physical Education",
+      "url": "https://www.sqa.org.uk/sqa/47901.html"
+    }
+  ]
+}

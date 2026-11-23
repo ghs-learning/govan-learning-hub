@@ -1,0 +1,284 @@
+{
+  "id": "chemistry",
+  "name": "Chemistry",
+  "strapline": "Small particles. Big possibilities.",
+  "intro": "Explore how particles explain materials, medicines and a changing planet. The BGE projects below are suggested S1–S3 experiences for departmental review. Senior Phase headings describe national courses; the activities are original practice, not assessed coursework. Carry out experiments only when directed by your teacher using school safety procedures.",
+  "bge": [
+    {
+      "title": "Kitchen chemistry",
+      "question": "Why does food change when it cooks?",
+      "learn": [
+        "Identify physical and chemical changes.",
+        "Use particle ideas to describe dissolving.",
+        "Separate observations from explanations."
+      ],
+      "task": "Annotate three changes in a teacher-provided cooking video. Explain which evidence suggests a new substance formed.",
+      "extend": "Explain why melting chocolate is different from burning toast."
+    },
+    {
+      "title": "Materials for a better world",
+      "question": "What makes a material suitable?",
+      "learn": [
+        "Compare metals, polymers and ceramics.",
+        "Link properties to uses.",
+        "Consider reuse and recycling."
+      ],
+      "task": "Design packaging for a fragile object. Compare two materials using strength, mass and end-of-life evidence.",
+      "extend": "Challenge the claim that every biodegradable material is automatically sustainable."
+    },
+    {
+      "title": "Acids and alkalis",
+      "question": "How can we describe acidity?",
+      "learn": [
+        "Interpret the pH scale.",
+        "Recognise neutralisation.",
+        "Read hazard information."
+      ],
+      "task": "Use a teacher-selected simulation to arrange five solutions by pH and predict changes when acid is neutralised.",
+      "extend": "Explain why pH alone does not tell you every hazard."
+    },
+    {
+      "title": "Chemistry and our environment",
+      "question": "How can chemistry reduce pollution?",
+      "learn": [
+        "Distinguish elements and compounds.",
+        "Read emissions graphs.",
+        "Evaluate evidence about fuels."
+      ],
+      "task": "Compare two published fuel data tables. Write a recommendation with a benefit, limitation and supporting figure.",
+      "extend": "Research how green hydrogen is produced and identify the source of its energy."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3 / National 4",
+      "title": "Chemistry",
+      "areas": [
+        "Chemical Changes and Structure",
+        "Nature’s Chemistry",
+        "Chemistry in Society"
+      ],
+      "explain": "Build chemical knowledge through practical enquiry. National 4 also includes an added-value assignment. Availability depends on school provision.",
+      "assessment": "Internally assessed units; National 4 includes added value. These courses are pass/fail.",
+      "source": {
+        "title": "Qualifications Scotland — Chemistry",
+        "url": "https://www.sqa.org.uk/sqa/45720.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "National 5 Chemistry",
+      "areas": [
+        "Chemical Changes and Structure",
+        "Nature’s Chemistry",
+        "Chemistry in Society"
+      ],
+      "explain": "Study bonding, reaction rates, quantitative chemistry, carbon compounds, energy, metals and the chemical industry within the specification.",
+      "assessment": "Question paper and assignment under the current national assessment requirements. Practise independently; complete assessed work under teacher conditions.",
+      "source": {
+        "title": "Qualifications Scotland — National 5 Chemistry",
+        "url": "https://www.sqa.org.uk/sqa/45722.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "Higher Chemistry",
+      "areas": [
+        "Chemical Changes and Structure",
+        "Nature’s Chemistry",
+        "Chemistry in Society",
+        "Researching Chemistry skills"
+      ],
+      "explain": "Deepen understanding of periodicity, bonding, organic chemistry, equilibria, energy and chemical analysis. Researching Chemistry develops enquiry skills across content.",
+      "assessment": "Question paper and assignment; consult the current specification and teacher guidance for this session.",
+      "source": {
+        "title": "Qualifications Scotland — Higher Chemistry",
+        "url": "https://www.sqa.org.uk/sqa/46504.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Plan a fair comparison",
+      "explain": "Change one independent variable and measure a clearly defined outcome. Control other influential variables.",
+      "try": "Plan a simulation comparing reaction rate at three temperatures, with repeats.",
+      "check": "Have you stated what stays constant and how rate will be calculated?"
+    },
+    {
+      "title": "Write chemical equations",
+      "explain": "A balanced equation conserves the number of atoms of each element.",
+      "try": "Balance Mg + O₂ → MgO using coefficients only.",
+      "check": "2Mg + O₂ → 2MgO. Never change formula subscripts to balance."
+    },
+    {
+      "title": "Read graphs critically",
+      "explain": "A steeper product–time gradient indicates a faster rate at that moment.",
+      "try": "Sketch two product–time curves with the same final product but different initial rates.",
+      "check": "The faster curve levels off sooner at the same final height."
+    },
+    {
+      "title": "Calculate with units",
+      "explain": "State the relationship, substitute values and carry units through the calculation.",
+      "try": "Calculate concentration when 0.20 mol solute makes 0.50 L solution.",
+      "check": "c = n/V = 0.40 mol L⁻¹; distinguish volume of solution from volume of solvent."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A reaction produces 24 cm³ gas in 30 s. Calculate its average rate and explain one limitation of this average.",
+      "hint": "Divide change in volume by time; consider whether rate stays constant.",
+      "answer": "24 ÷ 30 = 0.80 cm³ s⁻¹. This averages the whole interval and can hide a rapid start followed by slowing. State both the value and unit.",
+      "extend": "Explain how an initial-rate estimate could be obtained from a graph."
+    },
+    {
+      "question": "Why does powdered calcium carbonate usually react faster than equal-mass large chips under otherwise identical conditions?",
+      "hint": "Think about exposed particles, not a change in chemical identity.",
+      "answer": "Powder has a greater surface area exposed to acid, allowing more successful collisions per second. It is not because the particles inside each grain have become smaller atoms.",
+      "extend": "Predict whether the final gas volume changes if the same limiting amount reacts completely."
+    },
+    {
+      "question": "A claim says a fuel is carbon neutral because plants absorb CO₂. What evidence would you request?",
+      "hint": "Look beyond the moment of combustion.",
+      "answer": "Request lifecycle evidence for cultivation, fertiliser, processing, transport, land-use change and regrowth. Uptake alone does not establish a zero net impact.",
+      "extend": "Compare the boundaries used in two lifecycle studies."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Royal Society of Chemistry Education",
+      "url": "https://edu.rsc.org/",
+      "kind": "Read",
+      "task": "Choose a sustainability article. Record one chemical explanation and one evidence-based question."
+    },
+    {
+      "title": "PhET interactive simulations",
+      "url": "https://phet.colorado.edu/",
+      "kind": "Try",
+      "task": "Find Balancing Chemical Equations. Explain why changing coefficients preserves substances."
+    },
+    {
+      "title": "Royal Institution science films",
+      "url": "https://www.rigb.org/explore-science",
+      "kind": "Watch",
+      "task": "Choose a chemistry film and pause to predict an outcome. Do not recreate demonstrations at home."
+    },
+    {
+      "title": "Qualifications Scotland past papers",
+      "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm",
+      "kind": "Try",
+      "task": "Select your level and compare an attempted chemistry answer with its marking instructions."
+    },
+    {
+      "title": "Understanding Standards",
+      "url": "https://www.understandingstandards.org.uk/",
+      "kind": "Read",
+      "task": "Find Chemistry and discuss why evidence earns credit. Some materials are restricted to staff."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "Particle explanation",
+      "steps": [
+        "Draw a labelled before-and-after particle model.",
+        "Record a 40-second explanation of what changes.",
+        "Add captions distinguishing particles from substances."
+      ],
+      "evidence": "An annotated explanation, not a photograph without reasoning."
+    },
+    {
+      "title": "Data storyteller",
+      "steps": [
+        "Enter a teacher-provided dataset in Numbers.",
+        "Create a labelled scatter graph with appropriate units.",
+        "Annotate the trend and one anomalous result."
+      ],
+      "evidence": "A graph plus an evidence-based conclusion."
+    },
+    {
+      "title": "Retrieval cards",
+      "steps": [
+        "Create six question cards after a lesson.",
+        "Record your explanation before checking notes.",
+        "Correct one misconception in a different colour."
+      ],
+      "evidence": "A dated set showing how your explanation improved."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Laboratory technician",
+      "linkToLearning": "Accurate measurement, records and safety support reliable testing.",
+      "nextStep": "Explore college science routes and laboratory apprenticeships on My World of Work."
+    },
+    {
+      "title": "Chemical engineer",
+      "linkToLearning": "Reaction rates and energy connect to efficient industrial processes.",
+      "nextStep": "Compare accredited university chemical engineering entry requirements."
+    },
+    {
+      "title": "Environmental analyst",
+      "linkToLearning": "Chemical evidence informs water quality and pollution decisions.",
+      "nextStep": "Investigate college environmental science and university chemistry pathways."
+    },
+    {
+      "title": "Pharmacy and pharmaceutical science",
+      "linkToLearning": "Structures, concentration and quality assurance support medicines work.",
+      "nextStep": "Compare pharmacist degree routes with pharmacy support and technician training."
+    }
+  ],
+  "parentTip": "Ask your young person to explain one everyday change using particles. Encourage a clear explanation and a question for class; avoid trying chemical demonstrations at home.",
+  "vocabulary": [
+    {
+      "en": "Atom",
+      "ar": "ذرة"
+    },
+    {
+      "en": "Element",
+      "ar": "عنصر"
+    },
+    {
+      "en": "Compound",
+      "ar": "مركب"
+    },
+    {
+      "en": "Reaction",
+      "ar": "تفاعل"
+    },
+    {
+      "en": "Acid",
+      "ar": "حمض"
+    },
+    {
+      "en": "Alkali",
+      "ar": "قلوي"
+    },
+    {
+      "en": "Concentration",
+      "ar": "تركيز"
+    },
+    {
+      "en": "Evidence",
+      "ar": "دليل"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland — Chemistry",
+      "url": "https://www.sqa.org.uk/sqa/45720.html"
+    },
+    {
+      "title": "Qualifications Scotland — National 5 Chemistry",
+      "url": "https://www.sqa.org.uk/sqa/45722.html"
+    },
+    {
+      "title": "Qualifications Scotland — Higher Chemistry",
+      "url": "https://www.sqa.org.uk/sqa/46504.html"
+    }
+  ],
+  "visual": {
+    "title": "Count atoms, not just symbols",
+    "question": "The equation is 2H₂ + O₂ → 2H₂O. Count each type of atom on both sides. Why must the small formula numbers stay unchanged?",
+    "answer": "Both sides contain 4 hydrogen atoms and 2 oxygen atoms. Coefficients change the amount of each substance; changing a formula subscript changes the substance.",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 360\" role=\"img\" aria-label=\"Count atoms, not just symbols\"><rect width=\"520\" height=\"360\" fill=\"#f2f7f8\"/><g font-family=\"Arial\" font-size=\"25\" fill=\"#19354a\"><text x=\"45\" y=\"80\">2H₂ + O₂</text><text x=\"340\" y=\"80\">2H₂O</text><text x=\"235\" y=\"80\">→</text></g><g stroke=\"#19354a\" stroke-width=\"2\"><circle cx=\"65\" cy=\"165\" r=\"18\" fill=\"#9ed6dc\"/><circle cx=\"105\" cy=\"165\" r=\"18\" fill=\"#9ed6dc\"/><circle cx=\"65\" cy=\"220\" r=\"18\" fill=\"#9ed6dc\"/><circle cx=\"105\" cy=\"220\" r=\"18\" fill=\"#9ed6dc\"/><circle cx=\"170\" cy=\"170\" r=\"25\" fill=\"#eb7b72\"/><circle cx=\"170\" cy=\"225\" r=\"25\" fill=\"#eb7b72\"/><circle cx=\"350\" cy=\"185\" r=\"25\" fill=\"#eb7b72\"/><circle cx=\"320\" cy=\"160\" r=\"18\" fill=\"#9ed6dc\"/><circle cx=\"380\" cy=\"160\" r=\"18\" fill=\"#9ed6dc\"/><circle cx=\"440\" cy=\"250\" r=\"25\" fill=\"#eb7b72\"/><circle cx=\"410\" cy=\"225\" r=\"18\" fill=\"#9ed6dc\"/><circle cx=\"470\" cy=\"225\" r=\"18\" fill=\"#9ed6dc\"/></g><g font-family=\"Arial\" font-size=\"18\"><text x=\"40\" y=\"310\">Blue: hydrogen</text><text x=\"290\" y=\"310\">Coral: oxygen</text></g></svg>"
+  }
+}

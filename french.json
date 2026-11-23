@@ -1,0 +1,285 @@
+{
+  "id": "french",
+  "name": "French",
+  "strapline": "Bonjour, le monde. Make connections through language.",
+  "intro": "French belongs to diverse communities in Europe, Africa, the Caribbean and beyond. Learn to communicate an idea clearly and listen with curiosity. Suggested BGE units can be adapted around the class’s interests. The national Modern Languages framework applies to French; the department confirms texts, sequence and available pathways.",
+  "bge": [
+    {
+      "title": "Moi et les autres",
+      "question": "How can we find something in common?",
+      "learn": [
+        "Introductions and questions",
+        "Adjective agreement",
+        "Opinions with reasons"
+      ],
+      "task": "Make a fictional identity card, then interview a partner about two interests using “Qu’est-ce que tu aimes… ?”.",
+      "extend": "Ask a follow-up question using something your partner said."
+    },
+    {
+      "title": "Mon quartier idéal",
+      "question": "What would make a place better?",
+      "learn": [
+        "Town vocabulary",
+        "Directions and prepositions",
+        "Comparisons"
+      ],
+      "task": "Draw an imaginary neighbourhood. Describe what there is, where it is and one reason to visit.",
+      "extend": "Compare it with another imaginary town using “plus… que”."
+    },
+    {
+      "title": "À table",
+      "question": "How can language help us make a choice?",
+      "learn": [
+        "Food and quantities",
+        "Polite requests",
+        "Reading menus"
+      ],
+      "task": "Create a café menu with prices. Role-play an order, clarify an ingredient and check the total.",
+      "extend": "Write a short review with a specific reason for your recommendation."
+    },
+    {
+      "title": "La francophonie",
+      "question": "Who uses French, and how?",
+      "learn": [
+        "French-speaking communities",
+        "Listening for gist",
+        "Avoiding stereotypes"
+      ],
+      "task": "Choose two French-speaking places. Use a cultural organisation’s resource to compare one aspect of daily life.",
+      "extend": "Explain why one person or celebration cannot represent everyone in a country."
+    }
+  ],
+  "senior": [
+    {
+      "level": "National 3/4",
+      "title": "French — Modern Languages",
+      "areas": [
+        "Understanding Language",
+        "Using Language",
+        "National 4 added value assignment"
+      ],
+      "explain": "These national courses develop receptive and productive language skills. National 4 adds an assignment; your teacher selects appropriate topics.",
+      "assessment": "Internal unit assessment; National 4 also requires the added value assignment.",
+      "source": {
+        "title": "Qualifications Scotland: French — Modern Languages",
+        "url": "https://www.sqa.org.uk/sqa/45671.html"
+      }
+    },
+    {
+      "level": "National 5",
+      "title": "French — Modern Languages",
+      "areas": [
+        "Society",
+        "Learning",
+        "Employability",
+        "Culture",
+        "Reading, listening, writing and talking"
+      ],
+      "explain": "The four contexts frame language learning. Suggested cultural investigations here are optional enrichment, not an additional national unit.",
+      "assessment": "Reading and writing paper, listening paper, writing assignment and talking performance. Follow current controlled-assessment rules.",
+      "source": {
+        "title": "Qualifications Scotland: French — Modern Languages",
+        "url": "https://www.sqa.org.uk/sqa/45671.html"
+      }
+    },
+    {
+      "level": "Higher",
+      "title": "French — Modern Languages",
+      "areas": [
+        "Society",
+        "Learning",
+        "Employability",
+        "Culture",
+        "Extended opinions and reasons"
+      ],
+      "explain": "Develop richer language, inference and discussion across the national contexts. Your class’s chosen examples are confirmed by the department.",
+      "assessment": "Reading and directed writing, listening, writing assignment and talking performance. Check current official guidance.",
+      "source": {
+        "title": "Qualifications Scotland: French — Modern Languages",
+        "url": "https://www.sqa.org.uk/sqa/46500.html"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "title": "Listen in layers",
+      "explain": "First listen for the topic, then for specific detail.",
+      "try": "Predict three words, listen once without a transcript and write a short gist.",
+      "check": "Replay to confirm details and notice negatives or time expressions."
+    },
+    {
+      "title": "Build a reusable phrase bank",
+      "explain": "Learn a useful chunk with its meaning and an example.",
+      "try": "Save an opinion, a reason and a contrasting connector.",
+      "check": "Can you adapt the phrase to a new topic without copying a whole answer?"
+    },
+    {
+      "title": "Read for evidence",
+      "explain": "Look for who, when and why before translating every word.",
+      "try": "Underline the phrase supporting each reading answer.",
+      "check": "Check pronouns, negatives and whether the event is past, present or future."
+    },
+    {
+      "title": "Speak to communicate",
+      "explain": "A clear message matters more than racing through a script.",
+      "try": "Record 30 seconds, listen and improve one pronunciation or verb.",
+      "check": "Can a listener understand your idea, reason and follow-up question?"
+    }
+  ],
+  "practice": [
+    {
+      "question": "Read: “J’habite près du collège, donc j’y vais à pied. Quand il pleut, je prends le bus.” How does the speaker usually travel, and when does this change?",
+      "hint": "“À pied” and “quand il pleut” are the key phrases.",
+      "answer": "They usually walk because they live near school; they take the bus when it rains. Include the condition rather than saying they always take the bus.",
+      "extend": "Write a sentence comparing this journey with your own or a fictional journey."
+    },
+    {
+      "question": "Improve: “J’aime la musique. C’est bien.” Give a specific reason.",
+      "hint": "Use “parce que” and explain an effect or benefit.",
+      "answer": "For example, “J’aime la musique parce que cela m’aide à me détendre.” This gives a clear reason. Other accurate reasons are equally valid.",
+      "extend": "Add a different opinion using “cependant” and check your verb agreement."
+    },
+    {
+      "question": "What is the difference between “Je joue au foot” and “J’ai joué au foot”?",
+      "hint": "Look for the auxiliary and past participle.",
+      "answer": "The first describes playing football in the present or habitually. The second says “I played/have played football”. “Ai” plus “joué” signals the perfect tense.",
+      "extend": "Write a present, past and future sentence about an activity, with a time phrase in each."
+    }
+  ],
+  "resources": [
+    {
+      "title": "TV5MONDE video learning",
+      "url": "https://apprendre.tv5monde.com/fr",
+      "kind": "Watch",
+      "task": "Choose A1 or A2, watch once for gist, then complete the listening activities. Arabic navigation is available on the provider’s site."
+    },
+    {
+      "title": "RFI: Le français facile",
+      "url": "https://francaisfacile.rfi.fr/fr/",
+      "kind": "Listen",
+      "task": "Choose a short audio with a transcript. Listen first, then highlight five useful phrases in the text."
+    },
+    {
+      "title": "Institut français UK",
+      "url": "https://www.institut-francais.org.uk/",
+      "kind": "Read",
+      "task": "Find a cultural event and produce a short French invitation with time, place and reason to attend."
+    },
+    {
+      "title": "TV5MONDE dictionary",
+      "url": "https://langue-francaise.tv5monde.com/",
+      "kind": "Try",
+      "task": "Check a word in context and use it in an original sentence."
+    },
+    {
+      "title": "National 5 Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/45671.html",
+      "kind": "Read",
+      "task": "Try French reading or listening practice and explain why each detail earns credit."
+    }
+  ],
+  "ipad": [
+    {
+      "title": "My listening laboratory",
+      "steps": [
+        "Choose a short teacher-approved audio.",
+        "Listen before viewing the transcript and record your understanding.",
+        "Compare with the transcript and colour-code new expressions."
+      ],
+      "evidence": "A gist, three checked details and two phrases to reuse."
+    },
+    {
+      "title": "A conversation that grows",
+      "steps": [
+        "Create a short prompt card without full sentences.",
+        "Record a fictional conversation with permission.",
+        "Repeat after improving one tense and one follow-up question."
+      ],
+      "evidence": "Two recordings and a brief reflection on what improved."
+    },
+    {
+      "title": "A visual phrase journey",
+      "steps": [
+        "Photograph objects or signs where photography is permitted.",
+        "Add accurate target-language captions using a checked dictionary.",
+        "Record yourself explaining a connection between the images."
+      ],
+      "evidence": "A small narrated slide deck; no identifiable people or personal addresses."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Tourism and hospitality",
+      "linkToLearning": "Listening, welcoming visitors and clarifying requests improve service.",
+      "nextStep": "Explore college travel or hospitality courses and tourism apprenticeships."
+    },
+    {
+      "title": "International business",
+      "linkToLearning": "Language and cultural awareness support customers and partnerships.",
+      "nextStep": "Compare business-with-languages degrees and work-based business routes."
+    },
+    {
+      "title": "Translation and communication",
+      "linkToLearning": "Accurate meaning, research and register matter more than word substitution.",
+      "nextStep": "Investigate language degrees and practise editing a short bilingual explanation."
+    },
+    {
+      "title": "Community and public service",
+      "linkToLearning": "Respectful communication helps schools, health and community organisations.",
+      "nextStep": "Explore college routes and ask how language skills complement another profession."
+    }
+  ],
+  "parentTip": "Ask your young person to teach you three useful phrases. Let them replay a short recording and identify one improvement. Encourage a small daily practice habit and curiosity about different communities.",
+  "vocabulary": [
+    {
+      "en": "question",
+      "ar": "سؤال"
+    },
+    {
+      "en": "answer",
+      "ar": "إجابة"
+    },
+    {
+      "en": "language",
+      "ar": "لغة"
+    },
+    {
+      "en": "opinion",
+      "ar": "رأي"
+    },
+    {
+      "en": "past",
+      "ar": "ماضٍ"
+    },
+    {
+      "en": "present",
+      "ar": "حاضر"
+    },
+    {
+      "en": "future",
+      "ar": "مستقبل"
+    },
+    {
+      "en": "culture",
+      "ar": "ثقافة"
+    }
+  ],
+  "sourceNotes": [
+    {
+      "title": "Qualifications Scotland: French — Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/45671.html"
+    },
+    {
+      "title": "Qualifications Scotland: French — Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/45671.html"
+    },
+    {
+      "title": "Qualifications Scotland: French — Modern Languages",
+      "url": "https://www.sqa.org.uk/sqa/46500.html"
+    },
+    {
+      "title": "Current national assessment overview; check session-specific requirements",
+      "url": "https://www.sqa.org.uk/sqa/104755.html"
+    }
+  ]
+}
