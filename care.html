@@ -101,4 +101,4 @@ document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)r
 document.addEventListener('input',e=>{if(e.target.id!=='unit-search')return;const q=e.target.value.trim().toLocaleLowerCase(),u=units.find(x=>x.id===current);document.getElementById('unit-results').innerHTML=!q?'':u.slides.filter(s=>(s.en.join(' ')+' '+s.ar.join(' ')+' '+s.ocr).toLocaleLowerCase().includes(q)).map(s=>`<p><button type="button" data-slide-result="${s.n}">Slide ${s.n}: ${safe(mode==='ar'?s.arTitle:s.title)}</button></p>`).join('')||'<p>No matching slides.</p>';});
 render();
 })();
-</script><script src="data.js"></script><script src="additions.js"></script><script src="shared.js"></script></body></html>
+</script><script src="data.js"></script><script src="additions.js"></script><script src="shared.js?v=20261123-names"></script></body></html>
